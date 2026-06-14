@@ -2,14 +2,13 @@
 
 Hi, I'm **Charlie Rios** — **Senior Full-Stack Software Engineer** based in Amsterdam.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/charlie-rios) 
+![Profile Views](https://gitviews.com/user/xarlizard.svg)
+
+
 I build products end-to-end: from UI architecture and design systems to APIs, infra, and production deployments. I've led frontend teams as **Frontend Lead**, owned features as a **Product Engineer**, and shipped across web, mobile, and cloud. Nowadays I'm growing into a **native AI developer**, building intelligent systems that reach real users.
 
 **What I bring:** strong product sense · scalable React/TypeScript frontends · full-stack ownership · team leadership · AI-native tooling
-
----
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/xarlizard) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/charlie-rios) 
 
 ---
 
@@ -106,7 +105,6 @@ Open invoice manager SaaS with automated billing — cloud-native and fully back
 </picture>
 
 ---
-[![](https://komarev.com/ghpvc/?username=xarlizard&icon=0&color=3)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/xarlizard) 

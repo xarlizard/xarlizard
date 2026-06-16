@@ -32,12 +32,14 @@ Simple HTML email signature editor with live preview. Pick a template, fill in y
 
 Peer-to-peer car rental marketplace inspired by **Airbnb** — rent cars from local owners instead of traditional rental counters. Built two proof-of-concept frontends with **Lovable** and **Vercel v0** to compare AI-assisted UI generation workflows.
 
+<!--
 ### [Krill Bill](https://github.com/terrarium-labs/krill-bill)
 [![Frontend](https://img.shields.io/badge/Frontend-krill--bill-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/terrarium-labs/krill-bill)
 [![Backend](https://img.shields.io/badge/Backend-krill--bill--backend-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)](https://github.com/terrarium-labs/krill-bill-backend)
 [![Mobile](https://img.shields.io/badge/Mobile-krill--bill--expo-000020?style=for-the-badge&logo=expo&logoColor=white)](https://github.com/terrarium-labs/krill-bill-expo)
 
 Open invoice manager SaaS with automated billing — cloud-native and fully backend-driven. Full-stack across three repos: **shadcn/ui** + **React** + **Vite** web client, **Hono** API on **Cloudflare Workers** (gateway to **Supabase**), and **React Native** (Expo) iPhone app.
+-->
 
 ---
 

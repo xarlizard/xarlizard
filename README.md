@@ -14,17 +14,38 @@ I build products end-to-end: from UI architecture and design systems to APIs, in
 
 ## 🚀 Featured Projects
 
-### [Token Bar](https://github.com/token-bar/token-bar)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-token--bar.pages.dev-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://token-bar.pages.dev/)
-[![Repo](https://img.shields.io/badge/Source-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/token-bar/token-bar)
+<img src="https://raw.githubusercontent.com/token-bar/token-bar/main/.github/icon-cropped.png" width="200" alt="Token Bar icon" align="left"/>
 
-macOS widget that displays your remaining AI provider tokens and credits at a glance — built with **Swift** for developers who live in the menu bar.
+<div>
+<h3><a href="https://github.com/token-bar/token-bar">Token Bar</a></h3>
+<p>
+<img src="https://img.shields.io/badge/Swift-F54A2A?style=flat&logo=swift&logoColor=white" alt="Swift"/>
+<img src="https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white" alt="macOS"/>
+</p>
+<p>macOS widget that displays your remaining AI provider tokens and credits at a glance.</p>
+<a href="https://github.com/token-bar/token-bar/releases"><img src="https://raw.githubusercontent.com/token-bar/token-bar/main/.github/macos_badge_noborder.png" width="175" alt="Download for macOS"/></a>
+</div>
 
-### [Email Signature Editor](https://github.com/xarlizard/email-signature-editor)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-email--signature--editor.pages.dev-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://email-signature-editor.pages.dev/)
-[![Repo](https://img.shields.io/badge/Source-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xarlizard/email-signature-editor)
+<br/><br/>
 
-Simple HTML email signature editor with live preview. Pick a template, fill in your details, and copy straight into Gmail — no design tools required.
+<img src="https://raw.githubusercontent.com/xarlizard/email-signature-editor/main/.github/icon-cropped.png" width="200" alt="Email Signature Editor icon" align="left"/>
+
+<div>
+<h3><a href="https://github.com/xarlizard/email-signature-editor">Email Signature Editor</a></h3>
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" alt="Vite"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+<img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=flat&logo=radix-ui&logoColor=white" alt="shadcn/ui"/>
+</p>
+<p>Edit HTML email signatures with a live preview, then copy into Gmail.</p>
+<p>
+<a href="https://email-signature-editor.pages.dev/"><img src="https://img.shields.io/badge/LIVE_DEMO-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Live Demo"/></a>
+<a href="https://github.com/xarlizard/email-signature-editor"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
+</div>
+
+<br/><br/>
 
 ### CarBnB
 [![Lovable Demo](https://img.shields.io/badge/Live%20Demo-Lovable-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://carbnb.netlify.app/)

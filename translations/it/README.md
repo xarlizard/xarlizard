@@ -1,58 +1,58 @@
 <p align="center">
-<a href="README.md"><b><u>EN</u></b></a>
+<a href="../../README.md"><b>EN</b></a>
 &nbsp;&nbsp;
-<a href="translations/es/README.md"><b>ES</b></a>
+<a href="../es/README.md"><b>ES</b></a>
 &nbsp;&nbsp;
-<a href="translations/nl/README.md"><b>NL</b></a>
+<a href="../nl/README.md"><b>NL</b></a>
 &nbsp;&nbsp;
-<a href="translations/ru/README.md"><b>RU</b></a>
+<a href="../ru/README.md"><b>RU</b></a>
 &nbsp;&nbsp;
-<a href="translations/zh/README.md"><b>ZH</b></a>
+<a href="../zh/README.md"><b>ZH</b></a>
 &nbsp;&nbsp;
-<a href="translations/ja/README.md"><b>JA</b></a>
+<a href="../ja/README.md"><b>JA</b></a>
 &nbsp;&nbsp;
-<a href="translations/ar/README.md"><b>AR</b></a>
+<a href="../ar/README.md"><b>AR</b></a>
 &nbsp;&nbsp;
-<a href="translations/it/README.md"><b>IT</b></a>
+<a href="README.md"><b><u>IT</u></b></a>
 &nbsp;&nbsp;
-<a href="translations/fr/README.md"><b>FR</b></a>
+<a href="../fr/README.md"><b>FR</b></a>
 &nbsp;&nbsp;
-<a href="translations/ca/README.md"><b>CA</b></a>
+<a href="../ca/README.md"><b>CA</b></a>
 &nbsp;&nbsp;
-<a href="translations/de/README.md"><b>DE</b></a>
+<a href="../de/README.md"><b>DE</b></a>
 &nbsp;&nbsp;
-<a href="translations/pt/README.md"><b>PT</b></a>
+<a href="../pt/README.md"><b>PT</b></a>
 &nbsp;&nbsp;
-<a href="translations/hi/README.md"><b>HI</b></a>
+<a href="../hi/README.md"><b>HI</b></a>
 &nbsp;&nbsp;
-<a href="translations/id/README.md"><b>ID</b></a>
+<a href="../id/README.md"><b>ID</b></a>
 &nbsp;&nbsp;
-<a href="translations/ko/README.md"><b>KO</b></a>
+<a href="../ko/README.md"><b>KO</b></a>
 &nbsp;&nbsp;
-<a href="translations/he/README.md"><b>HE</b></a>
+<a href="../he/README.md"><b>HE</b></a>
 &nbsp;&nbsp;
-<a href="translations/tr/README.md"><b>TR</b></a>
+<a href="../tr/README.md"><b>TR</b></a>
 </p>
 <br/>
 
-<h2 align="center"><b>💫 About Me</b></h2>
+<h2 align="center"><b>💫 Chi sono</b></h2>
 
 <div>
-<p>Hi, I'm <strong>Charlie Rios</strong> — <strong>Senior Full-Stack Software Engineer</strong> based in Amsterdam.</p>
+<p>Ciao, sono <strong>Charlie Rios</strong> — <strong>Senior Full-Stack Software Engineer</strong> con base ad Amsterdam.</p>
 
 <p>
 <a href="https://linkedin.com/in/charlie-rios"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<img src="https://gitviews.com/user/xarlizard.svg" alt="Profile Views"/>
+<img src="https://gitviews.com/user/xarlizard.svg" alt="Visualizzazioni del profilo"/>
 </p>
 
-<p>I build products end-to-end: from UI architecture and design systems to APIs, infra, and production deployments. I've led frontend teams as <strong>Frontend Lead</strong>, owned features as a <strong>Product Engineer</strong>, and shipped across web, mobile, and cloud. Nowadays I'm growing into a <strong>native AI developer</strong>, building intelligent systems that reach real users.</p>
+<p>Costruisco prodotti end-to-end: dall'architettura UI e design systems ad API, infra e deploy in produzione. Ho guidato team frontend come <strong>Frontend Lead</strong>, gestito feature come <strong>Product Engineer</strong> e rilasciato su web, mobile e cloud. Oggi cresco come <strong>native AI developer</strong>, costruendo sistemi intelligenti che raggiungono utenti reali.</p>
 
-<p><strong>What I bring:</strong> strong product sense · scalable React/TypeScript frontends · full-stack ownership · team leadership · AI-native tooling</p>
+<p><strong>Cosa porto:</strong> forte senso del prodotto · frontend React/TypeScript scalabili · full-stack ownership · leadership di team · AI-native tooling</p>
 </div>
 
 <br/><br/>
 
-<h2 align="center"><b>🚀 Featured Projects</b></h2>
+<h2 align="center"><b>🚀 Progetti in evidenza</b></h2>
 
 <table>
 <tr>
@@ -66,7 +66,7 @@
 <img src="https://img.shields.io/badge/Swift-F54A2A?style=flat&logo=swift&logoColor=white" alt="Swift"/>
 <img src="https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white" alt="macOS"/>
 </p>
-<p>Native macOS menu bar app that unifies AI usage across <strong>Cursor</strong>, <strong>OpenAI</strong>, <strong>Anthropic</strong>, and more — track tokens, credits, spend, and burn rate without juggling provider dashboards. Includes Notification Center widgets, usage alerts, and privacy-first credential storage in the Keychain.</p>
+<p>App nativa macOS per la menu bar che unifica l'uso dell'AI tra <strong>Cursor</strong>, <strong>OpenAI</strong>, <strong>Anthropic</strong> e altri — monitora tokens, credits, spesa e burn rate senza saltare tra le dashboard dei provider. Include widget Notification Center, usage alerts e storage privacy-first delle credentials nel Keychain.</p>
 <p>
 <a href="https://token-bar.pages.dev/"><img src="https://img.shields.io/badge/LIVE_DEMO-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Live Demo"/></a>
 <a href="https://github.com/token-bar/token-bar"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
@@ -74,7 +74,7 @@
 </div>
 </td>
 <td width="175" valign="middle" align="right">
-<a href="https://github.com/token-bar/token-bar/releases"><img src="https://raw.githubusercontent.com/token-bar/token-bar/main/.github/macos_badge_noborder.png" width="175" alt="Download for macOS"/></a>
+<a href="https://github.com/token-bar/token-bar/releases"><img src="https://raw.githubusercontent.com/token-bar/token-bar/main/.github/macos_badge_noborder.png" width="175" alt="Scarica per macOS"/></a>
 </td>
 </tr>
 </table>
@@ -92,7 +92,7 @@
 <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=flat&logo=radix-ui&logoColor=white" alt="shadcn/ui"/>
 <img src="https://img.shields.io/badge/Import_from_LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </p>
-<p>Schema-driven email signature builder with a guided template flow, live HTML preview, and one-click copy into <strong>Gmail</strong>. Import your profile from <strong>LinkedIn</strong> to pre-fill fields, then customize in the visual template editor — saved signature library, per-field styling, and multi-language support included.</p>
+<p>Builder di firme email schema-driven con guided template flow, live HTML preview e copia con un clic in <strong>Gmail</strong>. Importa il profilo da <strong>LinkedIn</strong> per precompilare i campi e personalizza nel visual template editor — libreria di firme salvate, stile per campo e supporto multilingue inclusi.</p>
 <p>
 <a href="https://email-signature-editor.pages.dev/"><img src="https://img.shields.io/badge/LIVE_DEMO-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Live Demo"/></a>
 <a href="https://github.com/xarlizard/email-signature-editor"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
@@ -107,24 +107,24 @@
 <a href="https://carbnb.netlify.app/"><img src="https://img.shields.io/badge/LOVABLE-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Lovable"/></a>
 <a href="https://carbnb-v0.netlify.app/"><img src="https://img.shields.io/badge/VERCEL_V0-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="V0"/></a>
 </p>
-<p>Peer-to-peer car rental marketplace inspired by <strong>Airbnb</strong> — rent cars from local owners instead of traditional rental counters. Built two proof-of-concept frontends with <strong>Lovable</strong> and <strong>Vercel v0</strong> to compare AI-assisted UI generation workflows.</p>
+<p>Marketplace peer-to-peer di noleggio auto ispirato ad <strong>Airbnb</strong> — noleggia da proprietari locali invece dei banchi tradizionali. Due frontend proof-of-concept con <strong>Lovable</strong> e <strong>Vercel v0</strong> per confrontare AI-assisted UI generation workflows.</p>
 </div>
 
 <br/><br/>
 
-<h2 align="center"><b>📦 Open Source Libraries</b></h2>
+<h2 align="center"><b>📦 Librerie Open Source</b></h2>
 
-| Package | NPM | Description |
+| Pacchetto | NPM | Descrizione |
 | --- | --- | --- |
-| [**lizard-ui**](https://www.npmjs.com/package/lizard-ui) | <a href="https://www.npmjs.com/package/lizard-ui"><img src="https://img.shields.io/npm/v/lizard-ui?style=flat-square&logo=npm" alt="npm"/></a> | A multi-theme UI dependency for building React apps |
-| [**responsive-panel**](https://www.npmjs.com/package/responsive-panel) | <a href="https://www.npmjs.com/package/responsive-panel"><img src="https://img.shields.io/npm/v/responsive-panel?style=flat-square&logo=npm" alt="npm"/></a> | Dev tool to visualize and test responsive breakpoints in real time |
-| [**react-api-forge**](https://www.npmjs.com/package/react-api-forge) | <a href="https://www.npmjs.com/package/react-api-forge"><img src="https://img.shields.io/npm/v/react-api-forge?style=flat-square&logo=npm" alt="npm"/></a> | Type-safe React hook factory for API calls with loading, errors & cancellation |
-| [**react-temporal**](https://www.npmjs.com/package/@xarlizard/react-temporal) | <a href="https://www.npmjs.com/package/@xarlizard/react-temporal"><img src="https://img.shields.io/npm/v/@xarlizard/react-temporal?style=flat-square&logo=npm" alt="npm"/></a> | React hooks for date & time using the JavaScript **Temporal API** |
-| [**npm-package-template**](https://www.npmjs.com/package/@xarlizard/npm-package-template) | <a href="https://www.npmjs.com/package/@xarlizard/npm-package-template"><img src="https://img.shields.io/npm/v/@xarlizard/npm-package-template?style=flat-square&logo=npm" alt="npm"/></a> | Production-ready TypeScript npm package template with CI & automated publishing |
+| [**lizard-ui**](https://www.npmjs.com/package/lizard-ui) | <a href="https://www.npmjs.com/package/lizard-ui"><img src="https://img.shields.io/npm/v/lizard-ui?style=flat-square&logo=npm" alt="npm"/></a> | Dipendenza UI multi-tema per app React |
+| [**responsive-panel**](https://www.npmjs.com/package/responsive-panel) | <a href="https://www.npmjs.com/package/responsive-panel"><img src="https://img.shields.io/npm/v/responsive-panel?style=flat-square&logo=npm" alt="npm"/></a> | Dev tool per visualizzare e testare responsive breakpoints in tempo reale |
+| [**react-api-forge**](https://www.npmjs.com/package/react-api-forge) | <a href="https://www.npmjs.com/package/react-api-forge"><img src="https://img.shields.io/npm/v/react-api-forge?style=flat-square&logo=npm" alt="npm"/></a> | Type-safe React hook factory per chiamate API con loading, errors e cancellation |
+| [**react-temporal**](https://www.npmjs.com/package/@xarlizard/react-temporal) | <a href="https://www.npmjs.com/package/@xarlizard/react-temporal"><img src="https://img.shields.io/npm/v/@xarlizard/react-temporal?style=flat-square&logo=npm" alt="npm"/></a> | React hooks per data e ora con la **Temporal API** JavaScript |
+| [**npm-package-template**](https://www.npmjs.com/package/@xarlizard/npm-package-template) | <a href="https://www.npmjs.com/package/@xarlizard/npm-package-template"><img src="https://img.shields.io/npm/v/@xarlizard/npm-package-template?style=flat-square&logo=npm" alt="npm"/></a> | Template npm package TypeScript production-ready con CI e automated publishing |
 
 <br/><br/>
 
-<h2 align="center"><b>💻 Tech Stack</b></h2>
+<h2 align="center"><b>💻 Stack Tecnologico</b></h2>
 <div align="center">
 <p>
 <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
@@ -226,7 +226,7 @@
 
 <br/><br/>
 
-<h2 align="center"><b>📊 GitHub Stats</b></h2>
+<h2 align="center"><b>📊 Statistiche GitHub</b></h2>
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -263,7 +263,7 @@
 
 <br/><br/>
 
-<h2 align="center"><b>🏆 GitHub Trophies</b></h2>
+<h2 align="center"><b>🏆 Trofei GitHub</b></h2>
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -277,7 +277,7 @@
 
 <br/><br/>
 
-<h2 align="center"><b>💰 You can help me by Donating</b></h2>
+<h2 align="center"><b>💰 Puoi sostenermi con una donazione</b></h2>
 <div align="center">
 <a href="https://buymeacoffee.com/xarlizard"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee"/></a>
 </div>

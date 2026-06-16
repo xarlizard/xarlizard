@@ -1,58 +1,58 @@
 <p align="center">
-<a href="README.md"><b><u>EN</u></b></a>
+<a href="../../README.md"><b>EN</b></a>
 &nbsp;&nbsp;
-<a href="translations/es/README.md"><b>ES</b></a>
+<a href="../es/README.md"><b>ES</b></a>
 &nbsp;&nbsp;
-<a href="translations/nl/README.md"><b>NL</b></a>
+<a href="../nl/README.md"><b>NL</b></a>
 &nbsp;&nbsp;
-<a href="translations/ru/README.md"><b>RU</b></a>
+<a href="../ru/README.md"><b>RU</b></a>
 &nbsp;&nbsp;
-<a href="translations/zh/README.md"><b>ZH</b></a>
+<a href="../zh/README.md"><b>ZH</b></a>
 &nbsp;&nbsp;
-<a href="translations/ja/README.md"><b>JA</b></a>
+<a href="../ja/README.md"><b>JA</b></a>
 &nbsp;&nbsp;
-<a href="translations/ar/README.md"><b>AR</b></a>
+<a href="../ar/README.md"><b>AR</b></a>
 &nbsp;&nbsp;
-<a href="translations/it/README.md"><b>IT</b></a>
+<a href="../it/README.md"><b>IT</b></a>
 &nbsp;&nbsp;
-<a href="translations/fr/README.md"><b>FR</b></a>
+<a href="../fr/README.md"><b>FR</b></a>
 &nbsp;&nbsp;
-<a href="translations/ca/README.md"><b>CA</b></a>
+<a href="../ca/README.md"><b>CA</b></a>
 &nbsp;&nbsp;
-<a href="translations/de/README.md"><b>DE</b></a>
+<a href="../de/README.md"><b>DE</b></a>
 &nbsp;&nbsp;
-<a href="translations/pt/README.md"><b>PT</b></a>
+<a href="../pt/README.md"><b>PT</b></a>
 &nbsp;&nbsp;
-<a href="translations/hi/README.md"><b>HI</b></a>
+<a href="../hi/README.md"><b>HI</b></a>
 &nbsp;&nbsp;
-<a href="translations/id/README.md"><b>ID</b></a>
+<a href="../id/README.md"><b>ID</b></a>
 &nbsp;&nbsp;
-<a href="translations/ko/README.md"><b>KO</b></a>
+<a href="README.md"><b><u>KO</u></b></a>
 &nbsp;&nbsp;
-<a href="translations/he/README.md"><b>HE</b></a>
+<a href="../he/README.md"><b>HE</b></a>
 &nbsp;&nbsp;
-<a href="translations/tr/README.md"><b>TR</b></a>
+<a href="../tr/README.md"><b>TR</b></a>
 </p>
 <br/>
 
-<h2 align="center"><b>💫 About Me</b></h2>
+<h2 align="center"><b>💫 소개</b></h2>
 
 <div>
-<p>Hi, I'm <strong>Charlie Rios</strong> — <strong>Senior Full-Stack Software Engineer</strong> based in Amsterdam.</p>
+<p>안녕하세요, 저는 <strong>Charlie Rios</strong>입니다 — 암스테르담에 거주하는 <strong>시니어 풀스택 소프트웨어 엔지니어</strong>입니다.</p>
 
 <p>
 <a href="https://linkedin.com/in/charlie-rios"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<img src="https://gitviews.com/user/xarlizard.svg" alt="Profile Views"/>
+<img src="https://gitviews.com/user/xarlizard.svg" alt="프로필 조회수"/>
 </p>
 
-<p>I build products end-to-end: from UI architecture and design systems to APIs, infra, and production deployments. I've led frontend teams as <strong>Frontend Lead</strong>, owned features as a <strong>Product Engineer</strong>, and shipped across web, mobile, and cloud. Nowadays I'm growing into a <strong>native AI developer</strong>, building intelligent systems that reach real users.</p>
+<p>UI 아키텍처와 디자인 시스템부터 API, 인프라, 프로덕션 배포까지 엔드투엔드로 제품을 만듭니다. <strong>Frontend Lead</strong>로 프론트엔드 팀을 이끌었고, <strong>Product Engineer</strong>로 기능을 소유했으며, 웹·모바일·클라우드 전반에 걸쳐 출시했습니다. 지금은 <strong>네이티브 AI 개발자</strong>로 성장하며 실제 사용자에게 도달하는 지능형 시스템을 구축하고 있습니다.</p>
 
-<p><strong>What I bring:</strong> strong product sense · scalable React/TypeScript frontends · full-stack ownership · team leadership · AI-native tooling</p>
+<p><strong>제가 제공하는 것:</strong> 강한 제품 감각 · 확장 가능한 React/TypeScript 프론트엔드 · 풀스택 오너십 · 팀 리더십 · AI-native 툴링</p>
 </div>
 
 <br/><br/>
 
-<h2 align="center"><b>🚀 Featured Projects</b></h2>
+<h2 align="center"><b>🚀 주요 프로젝트</b></h2>
 
 <table>
 <tr>
@@ -66,7 +66,7 @@
 <img src="https://img.shields.io/badge/Swift-F54A2A?style=flat&logo=swift&logoColor=white" alt="Swift"/>
 <img src="https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white" alt="macOS"/>
 </p>
-<p>Native macOS menu bar app that unifies AI usage across <strong>Cursor</strong>, <strong>OpenAI</strong>, <strong>Anthropic</strong>, and more — track tokens, credits, spend, and burn rate without juggling provider dashboards. Includes Notification Center widgets, usage alerts, and privacy-first credential storage in the Keychain.</p>
+<p>메뉴 막대용 네이티브 macOS 앱으로 <strong>Cursor</strong>, <strong>OpenAI</strong>, <strong>Anthropic</strong> 등 여러 AI 사용을 통합합니다 — 제공자 대시보드를 오가지 않고 토큰, 크레딧, 지출, 소진 속도를 추적합니다. Notification Center 위젯, 사용량 알림, Keychain 기반 프라이버시 우선 자격 증명 저장을 포함합니다.</p>
 <p>
 <a href="https://token-bar.pages.dev/"><img src="https://img.shields.io/badge/LIVE_DEMO-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Live Demo"/></a>
 <a href="https://github.com/token-bar/token-bar"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
@@ -74,7 +74,7 @@
 </div>
 </td>
 <td width="175" valign="middle" align="right">
-<a href="https://github.com/token-bar/token-bar/releases"><img src="https://raw.githubusercontent.com/token-bar/token-bar/main/.github/macos_badge_noborder.png" width="175" alt="Download for macOS"/></a>
+<a href="https://github.com/token-bar/token-bar/releases"><img src="https://raw.githubusercontent.com/token-bar/token-bar/main/.github/macos_badge_noborder.png" width="175" alt="macOS용 다운로드"/></a>
 </td>
 </tr>
 </table>
@@ -92,7 +92,7 @@
 <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=flat&logo=radix-ui&logoColor=white" alt="shadcn/ui"/>
 <img src="https://img.shields.io/badge/Import_from_LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </p>
-<p>Schema-driven email signature builder with a guided template flow, live HTML preview, and one-click copy into <strong>Gmail</strong>. Import your profile from <strong>LinkedIn</strong> to pre-fill fields, then customize in the visual template editor — saved signature library, per-field styling, and multi-language support included.</p>
+<p>가이드형 템플릿 흐름, 실시간 HTML 미리보기, <strong>Gmail</strong>에 원클릭 복사가 가능한 스키마 기반 이메일 서명 빌더입니다. <strong>LinkedIn</strong>에서 프로필을 가져와 필드를 미리 채운 뒤 비주얼 템플릿 편집기에서 맞춤 설정할 수 있습니다 — 저장된 서명 라이브러리, 필드별 스타일링, 다국어 지원이 포함됩니다.</p>
 <p>
 <a href="https://email-signature-editor.pages.dev/"><img src="https://img.shields.io/badge/LIVE_DEMO-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Live Demo"/></a>
 <a href="https://github.com/xarlizard/email-signature-editor"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
@@ -107,24 +107,24 @@
 <a href="https://carbnb.netlify.app/"><img src="https://img.shields.io/badge/LOVABLE-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Lovable"/></a>
 <a href="https://carbnb-v0.netlify.app/"><img src="https://img.shields.io/badge/VERCEL_V0-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="V0"/></a>
 </p>
-<p>Peer-to-peer car rental marketplace inspired by <strong>Airbnb</strong> — rent cars from local owners instead of traditional rental counters. Built two proof-of-concept frontends with <strong>Lovable</strong> and <strong>Vercel v0</strong> to compare AI-assisted UI generation workflows.</p>
+<p><strong>Airbnb</strong>에서 영감을 받은 P2P 자동차 렌탈 마켓플레이스 — 기존 렌탈 카운터 대신 지역 소유자에게서 차를 빌립니다. <strong>Lovable</strong>과 <strong>Vercel v0</strong>로 두 개의 개념 증명 프론트엔드를 구축해 AI 지원 UI 생성 워크플로를 비교했습니다.</p>
 </div>
 
 <br/><br/>
 
-<h2 align="center"><b>📦 Open Source Libraries</b></h2>
+<h2 align="center"><b>📦 오픈 소스 라이브러리</b></h2>
 
-| Package | NPM | Description |
+| 패키지 | NPM | 설명 |
 | --- | --- | --- |
-| [**lizard-ui**](https://www.npmjs.com/package/lizard-ui) | <a href="https://www.npmjs.com/package/lizard-ui"><img src="https://img.shields.io/npm/v/lizard-ui?style=flat-square&logo=npm" alt="npm"/></a> | A multi-theme UI dependency for building React apps |
-| [**responsive-panel**](https://www.npmjs.com/package/responsive-panel) | <a href="https://www.npmjs.com/package/responsive-panel"><img src="https://img.shields.io/npm/v/responsive-panel?style=flat-square&logo=npm" alt="npm"/></a> | Dev tool to visualize and test responsive breakpoints in real time |
-| [**react-api-forge**](https://www.npmjs.com/package/react-api-forge) | <a href="https://www.npmjs.com/package/react-api-forge"><img src="https://img.shields.io/npm/v/react-api-forge?style=flat-square&logo=npm" alt="npm"/></a> | Type-safe React hook factory for API calls with loading, errors & cancellation |
-| [**react-temporal**](https://www.npmjs.com/package/@xarlizard/react-temporal) | <a href="https://www.npmjs.com/package/@xarlizard/react-temporal"><img src="https://img.shields.io/npm/v/@xarlizard/react-temporal?style=flat-square&logo=npm" alt="npm"/></a> | React hooks for date & time using the JavaScript **Temporal API** |
-| [**npm-package-template**](https://www.npmjs.com/package/@xarlizard/npm-package-template) | <a href="https://www.npmjs.com/package/@xarlizard/npm-package-template"><img src="https://img.shields.io/npm/v/@xarlizard/npm-package-template?style=flat-square&logo=npm" alt="npm"/></a> | Production-ready TypeScript npm package template with CI & automated publishing |
+| [**lizard-ui**](https://www.npmjs.com/package/lizard-ui) | <a href="https://www.npmjs.com/package/lizard-ui"><img src="https://img.shields.io/npm/v/lizard-ui?style=flat-square&logo=npm" alt="npm"/></a> | React 앱을 구축하기 위한 멀티 테마 UI 의존성 |
+| [**responsive-panel**](https://www.npmjs.com/package/responsive-panel) | <a href="https://www.npmjs.com/package/responsive-panel"><img src="https://img.shields.io/npm/v/responsive-panel?style=flat-square&logo=npm" alt="npm"/></a> | 반응형 브레이크포인트를 실시간으로 시각화하고 테스트하는 개발 도구 |
+| [**react-api-forge**](https://www.npmjs.com/package/react-api-forge) | <a href="https://www.npmjs.com/package/react-api-forge"><img src="https://img.shields.io/npm/v/react-api-forge?style=flat-square&logo=npm" alt="npm"/></a> | 로딩, 오류, 취소를 지원하는 API 호출용 타입 안전 React 훅 팩토리 |
+| [**react-temporal**](https://www.npmjs.com/package/@xarlizard/react-temporal) | <a href="https://www.npmjs.com/package/@xarlizard/react-temporal"><img src="https://img.shields.io/npm/v/@xarlizard/react-temporal?style=flat-square&logo=npm" alt="npm"/></a> | JavaScript **Temporal API**를 사용한 날짜 및 시간용 React 훅 |
+| [**npm-package-template**](https://www.npmjs.com/package/@xarlizard/npm-package-template) | <a href="https://www.npmjs.com/package/@xarlizard/npm-package-template"><img src="https://img.shields.io/npm/v/@xarlizard/npm-package-template?style=flat-square&logo=npm" alt="npm"/></a> | CI 및 자동 게시가 포함된 프로덕션 준비 TypeScript npm 패키지 템플릿 |
 
 <br/><br/>
 
-<h2 align="center"><b>💻 Tech Stack</b></h2>
+<h2 align="center"><b>💻 기술 스택</b></h2>
 <div align="center">
 <p>
 <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
@@ -226,7 +226,7 @@
 
 <br/><br/>
 
-<h2 align="center"><b>📊 GitHub Stats</b></h2>
+<h2 align="center"><b>📊 GitHub 통계</b></h2>
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -263,7 +263,7 @@
 
 <br/><br/>
 
-<h2 align="center"><b>🏆 GitHub Trophies</b></h2>
+<h2 align="center"><b>🏆 GitHub 트로피</b></h2>
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -277,7 +277,7 @@
 
 <br/><br/>
 
-<h2 align="center"><b>💰 You can help me by Donating</b></h2>
+<h2 align="center"><b>💰 기부로 저를 도와주실 수 있습니다</b></h2>
 <div align="center">
 <a href="https://buymeacoffee.com/xarlizard"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee"/></a>
 </div>

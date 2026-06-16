@@ -54,12 +54,9 @@
 
 <h2 align="center"><b>🚀 Öne Çıkan Projeler</b></h2>
 
-<table>
-<tr>
-<td width="200" valign="middle">
-<img src="https://raw.githubusercontent.com/token-bar/token-bar/main/.github/icon-cropped.png" width="200" alt="Token Bar"/>
-</td>
-<td valign="middle">
+<img src="https://raw.githubusercontent.com/token-bar/token-bar/main/.github/icon-cropped.png" width="200" alt="Token Bar" align="left"/>
+<a href="https://github.com/token-bar/token-bar/releases"><img src="https://raw.githubusercontent.com/token-bar/token-bar/main/.github/macos_badge_noborder.png" width="175" alt="macOS için indir" align="right"/></a>
+
 <div>
 <h3><a href="https://github.com/token-bar/token-bar">Token Bar</a></h3>
 <p>
@@ -72,12 +69,6 @@
 <a href="https://github.com/token-bar/token-bar"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 </div>
-</td>
-<td width="175" valign="middle" align="right">
-<a href="https://github.com/token-bar/token-bar/releases"><img src="https://raw.githubusercontent.com/token-bar/token-bar/main/.github/macos_badge_noborder.png" width="175" alt="macOS için indir"/></a>
-</td>
-</tr>
-</table>
 
 <br/><br/>
 

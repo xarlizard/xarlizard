@@ -47,7 +47,7 @@
 
 <p>Ik bouw producten end-to-end: van UI-architectuur en design systems tot API's, infra en productie-deployments. Ik heb frontendteams geleid als <strong>Frontend Lead</strong>, features owned als <strong>Product Engineer</strong>, en geleverd op web, mobiel en cloud. Tegenwoordig groei ik uit tot een <strong>native AI developer</strong> die intelligente systemen bouwt voor echte gebruikers.</p>
 
-<p><strong>Wat ik meebreng:</strong> sterk productgevoel · schaalbare React/TypeScript frontends · full-stack ownership · teamleiderschap · AI-native tooling</p>
+<p><strong>Wat ik meebreng:</strong> sterk productgevoel · schaalbare React/TypeScript frontends · full-stack ownership · AI-native tooling</p>
 </div>
 
 <br/><br/>
@@ -92,13 +92,25 @@
 
 <br/><br/>
 
-<h3><b>CarBnB</b></h3>
+<img src="https://raw.githubusercontent.com/xarlizard/carbnb-v0/main/.github/icon-cropped.png" width="200" alt="CarBnB" align="left"/>
+
 <div>
+<h3><b>CarBnB</b></h3>
 <p>
-<a href="https://carbnb.netlify.app/"><img src="https://img.shields.io/badge/LOVABLE-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Lovable"/></a>
-<a href="https://carbnb-v0.netlify.app/"><img src="https://img.shields.io/badge/VERCEL_V0-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="V0"/></a>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" alt="Vercel"/>
+ ·
+<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white" alt="Netlify"/>
 </p>
 <p>Peer-to-peer autoverhuurmarktplaats geïnspireerd op <strong>Airbnb</strong> — huur auto's van lokale eigenaren in plaats van traditionele balies. Twee proof-of-concept frontends met <strong>Lovable</strong> en <strong>Vercel v0</strong> om AI-ondersteunde UI-workflows te vergelijken.</p>
+<p>
+<a href="https://carbnb.netlify.app/"><img src="https://img.shields.io/badge/LIVE_DEMO-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo"/></a>
+<a href="https://github.com/xarlizard/carbnb-lovable"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+ ·
+<a href="https://carbnb-v0.netlify.app/"><img src="https://img.shields.io/badge/LIVE_DEMO-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/></a>
+<a href="https://github.com/xarlizard/carbnb-v0"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
 </div>
 
 <br/><br/>

@@ -124,13 +124,25 @@ function renderFeatured(t) {
 
 <br/><br/>
 
-<h3><b>CarBnB</b></h3>
+<img src="https://raw.githubusercontent.com/xarlizard/carbnb-v0/main/.github/icon-cropped.png" width="200" alt="CarBnB" align="left"/>
+
 <div>
+<h3><b>CarBnB</b></h3>
 <p>
-<a href="https://carbnb.netlify.app/"><img src="https://img.shields.io/badge/LOVABLE-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Lovable"/></a>
-<a href="https://carbnb-v0.netlify.app/"><img src="https://img.shields.io/badge/VERCEL_V0-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="V0"/></a>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" alt="Vercel"/>
+ ·
+<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white" alt="Netlify"/>
 </p>
 <p>${t.carbnb_desc}</p>
+<p>
+<a href="https://carbnb.netlify.app/"><img src="https://img.shields.io/badge/LIVE_DEMO-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo"/></a>
+<a href="https://github.com/xarlizard/carbnb-lovable"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+ ·
+<a href="https://carbnb-v0.netlify.app/"><img src="https://img.shields.io/badge/LIVE_DEMO-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/></a>
+<a href="https://github.com/xarlizard/carbnb-v0"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
 </div>
 
 <br/><br/>

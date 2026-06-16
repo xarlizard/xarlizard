@@ -47,7 +47,7 @@
 
 <p>मैं end-to-end उत्पाद बनाता हूँ: UI architecture और design systems से लेकर APIs, infra और production deployments तक। मैंने <strong>Frontend Lead</strong> के रूप में frontend टीमों का नेतृत्व किया, <strong>Product Engineer</strong> के रूप में features का ownership लिया, और web, mobile और cloud पर ship किया। आज मैं <strong>native AI developer</strong> के रूप में बढ़ रहा हूँ, ऐसे intelligent systems बना रहा हूँ जो real users तक पहुँचते हैं।</p>
 
-<p><strong>मैं क्या लाता हूँ:</strong> मजबूत product sense · scalable React/TypeScript frontends · full-stack ownership · team leadership · AI-native tooling</p>
+<p><strong>मैं क्या लाता हूँ:</strong> मजबूत product sense · scalable React/TypeScript frontends · full-stack ownership · AI-native tooling</p>
 </div>
 
 <br/><br/>
@@ -92,13 +92,25 @@
 
 <br/><br/>
 
-<h3><b>CarBnB</b></h3>
+<img src="https://raw.githubusercontent.com/xarlizard/carbnb-v0/main/.github/icon-cropped.png" width="200" alt="CarBnB" align="left"/>
+
 <div>
+<h3><b>CarBnB</b></h3>
 <p>
-<a href="https://carbnb.netlify.app/"><img src="https://img.shields.io/badge/LOVABLE-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Lovable"/></a>
-<a href="https://carbnb-v0.netlify.app/"><img src="https://img.shields.io/badge/VERCEL_V0-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="V0"/></a>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" alt="Vercel"/>
+ ·
+<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white" alt="Netlify"/>
 </p>
 <p><strong>Airbnb</strong> से प्रेरित peer-to-peer car rental marketplace — traditional rental counters के बजाय local owners से car किराए पर लें। <strong>Lovable</strong> और <strong>Vercel v0</strong> के साथ दो proof-of-concept frontends AI-assisted UI generation workflows की तुलना के लिए।</p>
+<p>
+<a href="https://carbnb.netlify.app/"><img src="https://img.shields.io/badge/LIVE_DEMO-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo"/></a>
+<a href="https://github.com/xarlizard/carbnb-lovable"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+ ·
+<a href="https://carbnb-v0.netlify.app/"><img src="https://img.shields.io/badge/LIVE_DEMO-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/></a>
+<a href="https://github.com/xarlizard/carbnb-v0"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
 </div>
 
 <br/><br/>

@@ -45,6 +45,34 @@ const LINKEDIN_ICON_B64 =
   'PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg==';
 const LINKEDIN_LOGIN_BADGE = `https://img.shields.io/badge/LinkedIn_login-0A66C2?style=flat&logo=data:image/svg+xml;base64,${LINKEDIN_ICON_B64}`;
 
+const TECH_BADGES = {
+  github:
+    '<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>',
+  githubActions:
+    '<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white" alt="GitHub Actions"/>',
+  typescript:
+    '<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/>',
+  vitest:
+    '<img src="https://img.shields.io/badge/Vitest-252529?style=flat&logo=vitest&logoColor=FCC72B" alt="Vitest"/>',
+  eslint:
+    '<img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat&logo=eslint&logoColor=white" alt="ESLint"/>',
+  npm: '<img src="https://img.shields.io/badge/NPM-CB3837?style=flat&logo=npm&logoColor=white" alt="NPM"/>',
+  react:
+    '<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React"/>',
+  vite: '<img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" alt="Vite"/>',
+  supabase:
+    '<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" alt="Supabase"/>',
+  tailwind:
+    '<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>',
+  cloudflare:
+    '<img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white" alt="Cloudflare"/>',
+  hono: '<img src="https://img.shields.io/badge/Hono-E36002?style=flat&logo=hono&logoColor=white" alt="Hono"/>',
+};
+
+function renderTechStack(keys) {
+  return keys.map((key) => TECH_BADGES[key]).join('');
+}
+
 function read(filePath) {
   return fs.readFileSync(filePath, 'utf8');
 }
@@ -154,6 +182,47 @@ function renderFeatured(t) {
 `;
 }
 
+function renderTemplates(t) {
+  const templates = [
+    {
+      name: 'github-repo-template',
+      techStack: ['github', 'githubActions'],
+      descKey: 'github_repo_template_desc',
+    },
+    {
+      name: 'npm-package-template',
+      techStack: ['typescript', 'vitest', 'eslint', 'npm'],
+      descKey: 'ot_npm_package_template_desc',
+    },
+    {
+      name: 'react-supabase-auth-template',
+      techStack: ['react', 'vite', 'supabase', 'tailwind'],
+      descKey: 'react_supabase_auth_template_desc',
+    },
+    {
+      name: 'cf-hono-supabase-api-template',
+      techStack: ['cloudflare', 'hono', 'supabase', 'typescript'],
+      descKey: 'cf_hono_supabase_api_template_desc',
+    },
+  ];
+
+  const rows = templates
+    .map(({ name, techStack, descKey }) => {
+      const repo = `https://github.com/open-templates/${name}`;
+      return `| [**${name}**](${repo}) | ${renderTechStack(techStack)} | ${t[descKey]} |`;
+    })
+    .join('\n');
+
+  return `<h2 align="center"><b>${t.templates_title}</b></h2>
+
+| ${t.templates_col_template} | ${t.templates_col_tech_stack} | ${t.templates_col_desc} |
+| --- | --- | --- |
+${rows}
+
+<br/><br/>
+`;
+}
+
 function renderOss(t) {
   return `<h2 align="center"><b>${t.oss_title}</b></h2>
 
@@ -163,7 +232,6 @@ function renderOss(t) {
 | [**responsive-panel**](https://www.npmjs.com/package/responsive-panel) | <a href="https://www.npmjs.com/package/responsive-panel"><img src="https://img.shields.io/npm/v/responsive-panel?style=flat-square&logo=npm" alt="npm"/></a> | ${t.responsive_panel_desc} |
 | [**react-api-forge**](https://www.npmjs.com/package/react-api-forge) | <a href="https://www.npmjs.com/package/react-api-forge"><img src="https://img.shields.io/npm/v/react-api-forge?style=flat-square&logo=npm" alt="npm"/></a> | ${t.react_api_forge_desc} |
 | [**react-temporal**](https://www.npmjs.com/package/@xarlizard/react-temporal) | <a href="https://www.npmjs.com/package/@xarlizard/react-temporal"><img src="https://img.shields.io/npm/v/@xarlizard/react-temporal?style=flat-square&logo=npm" alt="npm"/></a> | ${t.react_temporal_desc} |
-| [**npm-package-template**](https://www.npmjs.com/package/@xarlizard/npm-package-template) | <a href="https://www.npmjs.com/package/@xarlizard/npm-package-template"><img src="https://img.shields.io/npm/v/@xarlizard/npm-package-template?style=flat-square&logo=npm" alt="npm"/></a> | ${t.npm_package_template_desc} |
 
 <br/><br/>
 `;
@@ -191,6 +259,7 @@ function buildLanguage(lang) {
     langBar(lang),
     renderAbout(t),
     renderFeatured(t),
+    renderTemplates(t),
     renderOss(t),
     titledSection(t, 'tech_stack_title', path.join(sharedDir, 'tech-stack.html')),
     '<br/><br/>\n',

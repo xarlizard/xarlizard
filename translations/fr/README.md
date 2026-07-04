@@ -115,6 +115,17 @@
 
 <br/><br/>
 
+<h2 align="center"><b>📋 Modèles Open</b></h2>
+
+| Modèle | Stack Technique | Description |
+| --- | --- | --- |
+| [**github-repo-template**](https://github.com/open-templates/github-repo-template) | <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white" alt="GitHub Actions"/> | Coquille de dépôt GitHub agnostique au stack de <strong>@open-templates</strong> — docs communautaires, Dependabot, CODEOWNERS, modèles d'issues et de PR |
+| [**npm-package-template**](https://github.com/open-templates/npm-package-template) | <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/><img src="https://img.shields.io/badge/Vitest-252529?style=flat&logo=vitest&logoColor=FCC72B" alt="Vitest"/><img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat&logo=eslint&logoColor=white" alt="ESLint"/><img src="https://img.shields.io/badge/NPM-CB3837?style=flat&logo=npm&logoColor=white" alt="NPM"/> | Package npm TypeScript prêt pour la production — dual ESM/CJS builds, Vitest, ESLint, publish automatisé & CodeQL |
+| [**react-supabase-auth-template**](https://github.com/open-templates/react-supabase-auth-template) | <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React"/><img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" alt="Vite"/><img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" alt="Supabase"/><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/> | React 19 + Vite + Supabase Auth — e-mail/mot de passe & Google OAuth, routes protégées, API health polling, `GET /me` |
+| [**cf-hono-supabase-api-template**](https://github.com/open-templates/cf-hono-supabase-api-template) | <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white" alt="Cloudflare"/><img src="https://img.shields.io/badge/Hono-E36002?style=flat&logo=hono&logoColor=white" alt="Hono"/><img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" alt="Supabase"/><img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/> | Cloudflare Worker + Hono + Supabase — `GET /health` public, `GET /me` protégé par JWT |
+
+<br/><br/>
+
 <h2 align="center"><b>📦 Bibliothèques Open Source</b></h2>
 
 | Paquet | NPM | Description |
@@ -123,7 +134,6 @@
 | [**responsive-panel**](https://www.npmjs.com/package/responsive-panel) | <a href="https://www.npmjs.com/package/responsive-panel"><img src="https://img.shields.io/npm/v/responsive-panel?style=flat-square&logo=npm" alt="npm"/></a> | Dev tool pour visualiser et tester les responsive breakpoints en temps réel |
 | [**react-api-forge**](https://www.npmjs.com/package/react-api-forge) | <a href="https://www.npmjs.com/package/react-api-forge"><img src="https://img.shields.io/npm/v/react-api-forge?style=flat-square&logo=npm" alt="npm"/></a> | Type-safe React hook factory pour appels API avec loading, errors et cancellation |
 | [**react-temporal**](https://www.npmjs.com/package/@xarlizard/react-temporal) | <a href="https://www.npmjs.com/package/@xarlizard/react-temporal"><img src="https://img.shields.io/npm/v/@xarlizard/react-temporal?style=flat-square&logo=npm" alt="npm"/></a> | React hooks pour date et heure avec la **Temporal API** JavaScript |
-| [**npm-package-template**](https://www.npmjs.com/package/@xarlizard/npm-package-template) | <a href="https://www.npmjs.com/package/@xarlizard/npm-package-template"><img src="https://img.shields.io/npm/v/@xarlizard/npm-package-template?style=flat-square&logo=npm" alt="npm"/></a> | Modèle npm package TypeScript production-ready avec CI et automated publishing |
 
 <br/><br/>
 

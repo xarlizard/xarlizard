@@ -115,6 +115,17 @@
 
 <br/><br/>
 
+<h2 align="center"><b>📋 Plantilles Open</b></h2>
+
+| Plantilla | Stack Tecnològic | Descripció |
+| --- | --- | --- |
+| [**github-repo-template**](https://github.com/open-templates/github-repo-template) | <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white" alt="GitHub Actions"/> | Shell de repositori GitHub agnòstic al stack de <strong>@open-templates</strong> — docs de comunitat, Dependabot, CODEOWNERS, plantilles d'issues i PR |
+| [**npm-package-template**](https://github.com/open-templates/npm-package-template) | <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/><img src="https://img.shields.io/badge/Vitest-252529?style=flat&logo=vitest&logoColor=FCC72B" alt="Vitest"/><img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat&logo=eslint&logoColor=white" alt="ESLint"/><img src="https://img.shields.io/badge/NPM-CB3837?style=flat&logo=npm&logoColor=white" alt="NPM"/> | Paquet npm TypeScript llest per a producció — dual ESM/CJS builds, Vitest, ESLint, publish automatitzada i CodeQL |
+| [**react-supabase-auth-template**](https://github.com/open-templates/react-supabase-auth-template) | <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React"/><img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" alt="Vite"/><img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" alt="Supabase"/><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/> | React 19 + Vite + Supabase Auth — email/contrasenya i Google OAuth, rutes protegides, API health polling, `GET /me` |
+| [**cf-hono-supabase-api-template**](https://github.com/open-templates/cf-hono-supabase-api-template) | <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white" alt="Cloudflare"/><img src="https://img.shields.io/badge/Hono-E36002?style=flat&logo=hono&logoColor=white" alt="Hono"/><img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" alt="Supabase"/><img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/> | Cloudflare Worker + Hono + Supabase — `GET /health` públic, `GET /me` protegit amb JWT |
+
+<br/><br/>
+
 <h2 align="center"><b>📦 Biblioteques Open Source</b></h2>
 
 | Paquet | NPM | Descripció |
@@ -123,7 +134,6 @@
 | [**responsive-panel**](https://www.npmjs.com/package/responsive-panel) | <a href="https://www.npmjs.com/package/responsive-panel"><img src="https://img.shields.io/npm/v/responsive-panel?style=flat-square&logo=npm" alt="npm"/></a> | Eina de dev per visualitzar i provar breakpoints responsive en temps real |
 | [**react-api-forge**](https://www.npmjs.com/package/react-api-forge) | <a href="https://www.npmjs.com/package/react-api-forge"><img src="https://img.shields.io/npm/v/react-api-forge?style=flat-square&logo=npm" alt="npm"/></a> | Factory de hooks React type-safe per a APIs amb loading, errors i cancel·lació |
 | [**react-temporal**](https://www.npmjs.com/package/@xarlizard/react-temporal) | <a href="https://www.npmjs.com/package/@xarlizard/react-temporal"><img src="https://img.shields.io/npm/v/@xarlizard/react-temporal?style=flat-square&logo=npm" alt="npm"/></a> | Hooks React per a data i hora amb la **Temporal API** de JavaScript |
-| [**npm-package-template**](https://www.npmjs.com/package/@xarlizard/npm-package-template) | <a href="https://www.npmjs.com/package/@xarlizard/npm-package-template"><img src="https://img.shields.io/npm/v/@xarlizard/npm-package-template?style=flat-square&logo=npm" alt="npm"/></a> | Plantilla npm TypeScript llesta per a producció amb CI i publicació automatitzada |
 
 <br/><br/>
 

@@ -115,6 +115,17 @@
 
 <br/><br/>
 
+<h2 align="center"><b>📋 תבניות Open</b></h2>
+
+| תבנית | מחסנית טכנולוגית | תיאור |
+| --- | --- | --- |
+| [**github-repo-template**](https://github.com/open-templates/github-repo-template) | <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white" alt="GitHub Actions"/> | מעטפת repo של GitHub שאינה תלויה ב-stack מ-<strong>@open-templates</strong> — community docs, Dependabot, CODEOWNERS, תבניות issue ו-PR |
+| [**npm-package-template**](https://github.com/open-templates/npm-package-template) | <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/><img src="https://img.shields.io/badge/Vitest-252529?style=flat&logo=vitest&logoColor=FCC72B" alt="Vitest"/><img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat&logo=eslint&logoColor=white" alt="ESLint"/><img src="https://img.shields.io/badge/NPM-CB3837?style=flat&logo=npm&logoColor=white" alt="NPM"/> | חבילת npm TypeScript מוכנה לפרודקשן — dual ESM/CJS builds, Vitest, ESLint, publish אוטומטי ו-CodeQL |
+| [**react-supabase-auth-template**](https://github.com/open-templates/react-supabase-auth-template) | <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React"/><img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" alt="Vite"/><img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" alt="Supabase"/><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/> | React 19 + Vite + Supabase Auth — אימייל/סיסמה ו-Google OAuth, נתיבים מוגנים, API health polling, `GET /me` |
+| [**cf-hono-supabase-api-template**](https://github.com/open-templates/cf-hono-supabase-api-template) | <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white" alt="Cloudflare"/><img src="https://img.shields.io/badge/Hono-E36002?style=flat&logo=hono&logoColor=white" alt="Hono"/><img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" alt="Supabase"/><img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/> | Cloudflare Worker + Hono + Supabase — `GET /health` ציבורי, `GET /me` מוגן ב-JWT |
+
+<br/><br/>
+
 <h2 align="center"><b>📦 ספריות קוד פתוח</b></h2>
 
 | חבילה | NPM | תיאור |
@@ -123,7 +134,6 @@
 | [**responsive-panel**](https://www.npmjs.com/package/responsive-panel) | <a href="https://www.npmjs.com/package/responsive-panel"><img src="https://img.shields.io/npm/v/responsive-panel?style=flat-square&logo=npm" alt="npm"/></a> | כלי פיתוח להצגה ובדיקה של responsive breakpoints בזמן אמת |
 | [**react-api-forge**](https://www.npmjs.com/package/react-api-forge) | <a href="https://www.npmjs.com/package/react-api-forge"><img src="https://img.shields.io/npm/v/react-api-forge?style=flat-square&logo=npm" alt="npm"/></a> | מפעל React hooks type-safe לקריאות API עם loading, שגיאות וביטול |
 | [**react-temporal**](https://www.npmjs.com/package/@xarlizard/react-temporal) | <a href="https://www.npmjs.com/package/@xarlizard/react-temporal"><img src="https://img.shields.io/npm/v/@xarlizard/react-temporal?style=flat-square&logo=npm" alt="npm"/></a> | React hooks לתאריך ושעה באמצעות **Temporal API** של JavaScript |
-| [**npm-package-template**](https://www.npmjs.com/package/@xarlizard/npm-package-template) | <a href="https://www.npmjs.com/package/@xarlizard/npm-package-template"><img src="https://img.shields.io/npm/v/@xarlizard/npm-package-template?style=flat-square&logo=npm" alt="npm"/></a> | תבנית npm package ב-TypeScript מוכנה לפרודקשן עם CI ופרסום אוטומטי |
 
 <br/><br/>
 

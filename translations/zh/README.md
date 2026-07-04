@@ -115,6 +115,17 @@
 
 <br/><br/>
 
+<h2 align="center"><b>📋 开放模板</b></h2>
+
+| 模板 | 技术栈 | 描述 |
+| --- | --- | --- |
+| [**github-repo-template**](https://github.com/open-templates/github-repo-template) | <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white" alt="GitHub Actions"/> | 来自 <strong>@open-templates</strong> 的 stack-agnostic GitHub 仓库模板 — 社区文档、Dependabot、CODEOWNERS、issue 与 PR 模板 |
+| [**npm-package-template**](https://github.com/open-templates/npm-package-template) | <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/><img src="https://img.shields.io/badge/Vitest-252529?style=flat&logo=vitest&logoColor=FCC72B" alt="Vitest"/><img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat&logo=eslint&logoColor=white" alt="ESLint"/><img src="https://img.shields.io/badge/NPM-CB3837?style=flat&logo=npm&logoColor=white" alt="NPM"/> | 可用于生产的 TypeScript npm 包 — dual ESM/CJS builds、Vitest、ESLint、自动发布与 CodeQL |
+| [**react-supabase-auth-template**](https://github.com/open-templates/react-supabase-auth-template) | <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React"/><img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" alt="Vite"/><img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" alt="Supabase"/><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/> | React 19 + Vite + Supabase Auth — 邮箱/密码与 Google OAuth、受保护路由、API health polling、`GET /me` |
+| [**cf-hono-supabase-api-template**](https://github.com/open-templates/cf-hono-supabase-api-template) | <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white" alt="Cloudflare"/><img src="https://img.shields.io/badge/Hono-E36002?style=flat&logo=hono&logoColor=white" alt="Hono"/><img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" alt="Supabase"/><img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/> | Cloudflare Worker + Hono + Supabase — 公开 `GET /health`、JWT 保护的 `GET /me` |
+
+<br/><br/>
+
 <h2 align="center"><b>📦 开源库</b></h2>
 
 | 包 | NPM | 描述 |
@@ -123,7 +134,6 @@
 | [**responsive-panel**](https://www.npmjs.com/package/responsive-panel) | <a href="https://www.npmjs.com/package/responsive-panel"><img src="https://img.shields.io/npm/v/responsive-panel?style=flat-square&logo=npm" alt="npm"/></a> | 实时可视化和测试 responsive breakpoints 的开发工具 |
 | [**react-api-forge**](https://www.npmjs.com/package/react-api-forge) | <a href="https://www.npmjs.com/package/react-api-forge"><img src="https://img.shields.io/npm/v/react-api-forge?style=flat-square&logo=npm" alt="npm"/></a> | Type-safe React hook factory，用于 API 调用，支持 loading、errors 和 cancellation |
 | [**react-temporal**](https://www.npmjs.com/package/@xarlizard/react-temporal) | <a href="https://www.npmjs.com/package/@xarlizard/react-temporal"><img src="https://img.shields.io/npm/v/@xarlizard/react-temporal?style=flat-square&logo=npm" alt="npm"/></a> | 使用 JavaScript **Temporal API** 的 React hooks，用于日期和时间 |
-| [**npm-package-template**](https://www.npmjs.com/package/@xarlizard/npm-package-template) | <a href="https://www.npmjs.com/package/@xarlizard/npm-package-template"><img src="https://img.shields.io/npm/v/@xarlizard/npm-package-template?style=flat-square&logo=npm" alt="npm"/></a> | Production-ready TypeScript npm package template，含 CI 和 automated publishing |
 
 <br/><br/>
 

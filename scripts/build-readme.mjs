@@ -67,10 +67,23 @@ const TECH_BADGES = {
   cloudflare:
     '<img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white" alt="Cloudflare"/>',
   hono: '<img src="https://img.shields.io/badge/Hono-E36002?style=flat&logo=hono&logoColor=white" alt="Hono"/>',
+  bun: '<img src="https://img.shields.io/badge/Bun-%23000000.svg?style=flat&logo=bun&logoColor=white" alt="Bun"/>',
+  gemini:
+    '<img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white" alt="Gemini"/>',
 };
 
 function renderTechStack(keys) {
   return keys.map((key) => TECH_BADGES[key]).join('');
+}
+
+function standaloneRow(name, techStack, descKey, t) {
+  const repo = `https://github.com/open-templates/${name}`;
+  return `| [**${name}**](${repo}) | ${renderTechStack(techStack)} | ${t[descKey]} |`;
+}
+
+function packRow(roleKey, name, techStack, descKey, t) {
+  const repo = `https://github.com/open-templates/${name}`;
+  return `| ${t[roleKey]} | [**${name}**](${repo}) | ${renderTechStack(techStack)} | ${t[descKey]} |`;
 }
 
 function read(filePath) {
@@ -183,7 +196,7 @@ function renderFeatured(t) {
 }
 
 function renderTemplates(t) {
-  const templates = [
+  const standalone = [
     {
       name: 'github-repo-template',
       techStack: ['github', 'githubActions'],
@@ -194,31 +207,81 @@ function renderTemplates(t) {
       techStack: ['typescript', 'vitest', 'eslint', 'npm'],
       descKey: 'ot_npm_package_template_desc',
     },
+  ];
+
+  const supabasePack = [
     {
+      roleKey: 'templates_role_frontend',
       name: 'react-supabase-auth-template',
       techStack: ['react', 'vite', 'supabase', 'tailwind'],
       descKey: 'react_supabase_auth_template_desc',
     },
     {
+      roleKey: 'templates_role_backend',
       name: 'cf-hono-supabase-api-template',
       techStack: ['cloudflare', 'hono', 'supabase', 'typescript'],
       descKey: 'cf_hono_supabase_api_template_desc',
     },
   ];
 
-  const rows = templates
-    .map(({ name, techStack, descKey }) => {
-      const repo = `https://github.com/open-templates/${name}`;
-      return `| [**${name}**](${repo}) | ${renderTechStack(techStack)} | ${t[descKey]} |`;
-    })
+  const aiChatPack = [
+    {
+      roleKey: 'templates_role_frontend',
+      name: 'react-supabase-auth-ai-chat-template',
+      techStack: ['react', 'vite', 'supabase', 'bun'],
+      descKey: 'react_supabase_auth_ai_chat_template_desc',
+    },
+    {
+      roleKey: 'templates_role_backend',
+      name: 'cf-hono-supabase-gemini-api-template',
+      techStack: ['cloudflare', 'hono', 'supabase', 'gemini'],
+      descKey: 'cf_hono_supabase_gemini_api_template_desc',
+    },
+  ];
+
+  const standaloneRows = standalone
+    .map(({ name, techStack, descKey }) => standaloneRow(name, techStack, descKey, t))
+    .join('\n');
+
+  const supabaseRows = supabasePack
+    .map(({ roleKey, name, techStack, descKey }) => packRow(roleKey, name, techStack, descKey, t))
+    .join('\n');
+
+  const aiChatRows = aiChatPack
+    .map(({ roleKey, name, techStack, descKey }) => packRow(roleKey, name, techStack, descKey, t))
     .join('\n');
 
   return `<h2 align="center"><b>${t.templates_title}</b></h2>
 
+<p align="center">${t.templates_intro}</p>
+
+<h3 align="center"><b>${t.templates_standalone_title}</b></h3>
+
 | ${t.templates_col_template} | ${t.templates_col_tech_stack} | ${t.templates_col_desc} |
 | --- | --- | --- |
-${rows}
+${standaloneRows}
 
+<br/>
+
+<h3 align="center"><b>${t.templates_fullstack_title}</b></h3>
+
+<p align="center"><em>${t.templates_fullstack_subtitle}</em></p>
+
+<h4 align="center"><b>${t.templates_supabase_pack_title}</b></h4>
+
+| ${t.templates_col_role} | ${t.templates_col_template} | ${t.templates_col_tech_stack} | ${t.templates_col_desc} |
+| --- | --- | --- | --- |
+${supabaseRows}
+
+<br/>
+
+<h4 align="center"><b>${t.templates_ai_chat_pack_title}</b></h4>
+
+| ${t.templates_col_role} | ${t.templates_col_template} | ${t.templates_col_tech_stack} | ${t.templates_col_desc} |
+| --- | --- | --- | --- |
+${aiChatRows}
+
+<br/><br/>
 <br/><br/>
 `;
 }

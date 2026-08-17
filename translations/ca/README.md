@@ -42,7 +42,7 @@
 
 <p>
 <a href="https://linkedin.com/in/charlie-rios"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<img src="https://gitviews.com/user/xarlizard.svg" alt="Visualitzacions del perfil"/>
+<img src="https://komarev.com/ghpvc/?username=xarlizard&label=Visualitzacions%20del%20perfil&color=0e75b6&style=flat" alt="Visualitzacions del perfil"/>
 </p>
 
 <p>Construeixo productes de punta a punta: des de l'arquitectura UI i design systems fins a APIs, infra i desplegaments en producció. He liderat equips frontend com a <strong>Frontend Lead</strong>, he estat <strong>Product Engineer</strong> i he publicat a web, mòbil i cloud. Avui evoluciono com a <strong>native AI developer</strong>, creant sistemes intel·ligents que arriben a usuaris reals.</p>
@@ -65,8 +65,47 @@
 </p>
 <p>App nativa de macOS per a la barra de menú que unifica l'ús d'IA entre <strong>Cursor</strong>, <strong>OpenAI</strong>, <strong>Anthropic</strong> i més — controla tokens, crèdits, despesa i ritme de consum sense obrir panells de cada proveïdor. Inclou widgets del Centre de notificacions, alertes d'ús i credencials al Keychain amb enfocament privacy-first.</p>
 <p>
-<a href="https://token-bar.pages.dev/"><img src="https://img.shields.io/badge/LIVE_DEMO-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Live Demo"/></a>
+<a href="https://token-bar.pages.dev/"><img src="https://img.shields.io/badge/P%C3%A0gina_web-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Pàgina web"/></a>
 <a href="https://github.com/token-bar/token-bar"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
+</div>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/pocket-agent/pocket-agent/main/.github/icon-cropped.png" width="200" alt="Pocket Agent" align="left"/>
+<a href="https://github.com/pocket-agent/pocket-agent-desktop-app/releases"><img src="https://raw.githubusercontent.com/token-bar/token-bar/main/.github/macos_badge_noborder.png" width="175" alt="Descarregar per a macOS" align="right"/></a>
+
+<div>
+<h3><a href="https://github.com/pocket-agent/pocket-agent">Pocket Agent</a></h3>
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white" alt="Cloudflare"/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white" alt="macOS"/>
+</p>
+<p>Ecosistema open-source d'<strong>assistent d'IA local</strong> de <a href="https://github.com/pocket-agent">@pocket-agent</a> — Python <strong>Pocket Node</strong> executa encaminament LLM, eines, memòria i Telegram a la teva màquina; una app d'escriptori macOS empaqueta el stack; una API Cloudflare Worker i una web UI React gestionen xat, monitor i configuració. Contractes SDK compartits connecten cada repo.</p>
+<p>
+<a href="https://pocket-agent.pages.dev/"><img src="https://img.shields.io/badge/P%C3%A0gina_web-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Pàgina web"/></a>
+<a href="https://github.com/pocket-agent"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
+</div>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/dropafile/dropafile/main/.github/icon-cropped.png" width="200" alt="dropafile" align="left"/>
+
+<div>
+<h3><a href="https://github.com/dropafile/dropafile">dropafile</a></h3>
+<p>
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white" alt="Cloudflare"/>
+<img src="https://img.shields.io/badge/Hono-E36002?style=flat&logo=hono&logoColor=white" alt="Hono"/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/>
+</p>
+<p><strong>Deixa anar un fitxer. Tothom el rep en directe.</strong> Compartició efímera de fitxers en sessió en viu a <strong>Cloudflare Workers</strong> — crea una sala, comparteix un enllaç o codi QR i deixa que els peers connectats descarreguin en temps real. Senyalització WebSocket a l'edge; els bytes van peer-to-peer al navegador. Sense comptes ni emmagatzematge persistent.</p>
+<p>
+<a href="https://dropafile.app-org-es.workers.dev/"><img src="https://img.shields.io/badge/LIVE_DEMO-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Live Demo"/></a>
+<a href="https://github.com/dropafile/dropafile"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 </div>
 
@@ -87,25 +126,6 @@
 <p>
 <a href="https://email-signature-editor.pages.dev/"><img src="https://img.shields.io/badge/LIVE_DEMO-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Live Demo"/></a>
 <a href="https://github.com/xarlizard/email-signature-editor"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-</p>
-</div>
-
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/dropafile/dropafile/main/.github/icon-cropped.png" width="200" alt="dropafile" align="left"/>
-
-<div>
-<h3><a href="https://github.com/dropafile/dropafile">dropafile</a></h3>
-<p>
-<img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white" alt="Cloudflare"/>
-<img src="https://img.shields.io/badge/Hono-E36002?style=flat&logo=hono&logoColor=white" alt="Hono"/>
-<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React"/>
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/>
-</p>
-<p><strong>Deixa anar un fitxer. Tothom el rep en directe.</strong> Compartició efímera de fitxers en sessió en viu a <strong>Cloudflare Workers</strong> — crea una sala, comparteix un enllaç o codi QR i deixa que els peers connectats descarreguin en temps real. Senyalització WebSocket a l'edge; els bytes van peer-to-peer al navegador. Sense comptes ni emmagatzematge persistent.</p>
-<p>
-<a href="https://dropafile.app-org-es.workers.dev/"><img src="https://img.shields.io/badge/LIVE_DEMO-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Live Demo"/></a>
-<a href="https://github.com/dropafile/dropafile"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 </div>
 

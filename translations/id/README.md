@@ -42,7 +42,7 @@
 
 <p>
 <a href="https://linkedin.com/in/charlie-rios"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<img src="https://gitviews.com/user/xarlizard.svg" alt="Tayangan profil"/>
+<img src="https://komarev.com/ghpvc/?username=xarlizard&label=Tayangan%20profil&color=0e75b6&style=flat" alt="Tayangan profil"/>
 </p>
 
 <p>Saya membangun produk end-to-end: dari arsitektur UI dan design systems hingga API, infra, dan deployment produksi. Saya pernah memimpin tim frontend sebagai <strong>Frontend Lead</strong>, memiliki fitur sebagai <strong>Product Engineer</strong>, dan merilis di web, mobile, dan cloud. Kini saya berkembang sebagai <strong>native AI developer</strong>, membangun sistem cerdas yang menjangkau pengguna nyata.</p>
@@ -65,8 +65,47 @@
 </p>
 <p>Aplikasi macOS native untuk menu bar yang menyatukan penggunaan AI di <strong>Cursor</strong>, <strong>OpenAI</strong>, <strong>Anthropic</strong>, dan lainnya — lacak tokens, credits, pengeluaran, dan burn rate tanpa berpindah antar dashboard provider. Termasuk widget Notification Center, usage alerts, dan penyimpanan credentials privacy-first di Keychain.</p>
 <p>
-<a href="https://token-bar.pages.dev/"><img src="https://img.shields.io/badge/LIVE_DEMO-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Live Demo"/></a>
+<a href="https://token-bar.pages.dev/"><img src="https://img.shields.io/badge/Halaman_utama-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Halaman utama"/></a>
 <a href="https://github.com/token-bar/token-bar"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
+</div>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/pocket-agent/pocket-agent/main/.github/icon-cropped.png" width="200" alt="Pocket Agent" align="left"/>
+<a href="https://github.com/pocket-agent/pocket-agent-desktop-app/releases"><img src="https://raw.githubusercontent.com/token-bar/token-bar/main/.github/macos_badge_noborder.png" width="175" alt="Unduh untuk macOS" align="right"/></a>
+
+<div>
+<h3><a href="https://github.com/pocket-agent/pocket-agent">Pocket Agent</a></h3>
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white" alt="Cloudflare"/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white" alt="macOS"/>
+</p>
+<p>Ekosistem <strong>asisten AI lokal</strong> open-source dari <a href="https://github.com/pocket-agent">@pocket-agent</a> — Python <strong>Pocket Node</strong> menjalankan routing LLM, tools, memori, dan Telegram di mesin Anda; aplikasi desktop macOS membundel stack; API Cloudflare Worker dan web UI React menangani chat, monitor, dan pengaturan. Kontrak SDK bersama menghubungkan setiap repo.</p>
+<p>
+<a href="https://pocket-agent.pages.dev/"><img src="https://img.shields.io/badge/Halaman_utama-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Halaman utama"/></a>
+<a href="https://github.com/pocket-agent"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
+</div>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/dropafile/dropafile/main/.github/icon-cropped.png" width="200" alt="dropafile" align="left"/>
+
+<div>
+<h3><a href="https://github.com/dropafile/dropafile">dropafile</a></h3>
+<p>
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white" alt="Cloudflare"/>
+<img src="https://img.shields.io/badge/Hono-E36002?style=flat&logo=hono&logoColor=white" alt="Hono"/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/>
+</p>
+<p><strong>Jatuhkan file. Semua mendapatkannya secara live.</strong> Berbagi file sesi live yang efemeral di <strong>Cloudflare Workers</strong> — buat room, bagikan tautan atau kode QR, dan biarkan peer yang terhubung mengunduh secara real time. Sinyal WebSocket di edge; byte file mengalir peer-to-peer di browser. Tanpa akun, tanpa penyimpanan persisten.</p>
+<p>
+<a href="https://dropafile.app-org-es.workers.dev/"><img src="https://img.shields.io/badge/LIVE_DEMO-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Live Demo"/></a>
+<a href="https://github.com/dropafile/dropafile"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 </div>
 
@@ -87,25 +126,6 @@
 <p>
 <a href="https://email-signature-editor.pages.dev/"><img src="https://img.shields.io/badge/LIVE_DEMO-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Live Demo"/></a>
 <a href="https://github.com/xarlizard/email-signature-editor"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-</p>
-</div>
-
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/dropafile/dropafile/main/.github/icon-cropped.png" width="200" alt="dropafile" align="left"/>
-
-<div>
-<h3><a href="https://github.com/dropafile/dropafile">dropafile</a></h3>
-<p>
-<img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white" alt="Cloudflare"/>
-<img src="https://img.shields.io/badge/Hono-E36002?style=flat&logo=hono&logoColor=white" alt="Hono"/>
-<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React"/>
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/>
-</p>
-<p><strong>Jatuhkan file. Semua mendapatkannya secara live.</strong> Berbagi file sesi live yang efemeral di <strong>Cloudflare Workers</strong> — buat room, bagikan tautan atau kode QR, dan biarkan peer yang terhubung mengunduh secara real time. Sinyal WebSocket di edge; byte file mengalir peer-to-peer di browser. Tanpa akun, tanpa penyimpanan persisten.</p>
-<p>
-<a href="https://dropafile.app-org-es.workers.dev/"><img src="https://img.shields.io/badge/LIVE_DEMO-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Live Demo"/></a>
-<a href="https://github.com/dropafile/dropafile"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 </div>
 

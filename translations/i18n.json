@@ -31,7 +31,9 @@
     "templates_col_summary": "Summary",
     "github_template_desc": "Public org meta-repo (`.github`) — visitor-facing org profile, repository catalog starter, init wizard",
     "templates_org_profile_alt": "Org profile",
-    "templates_browse_alt": "Browse templates"
+    "templates_browse_alt": "Browse templates",
+    "pocket_agent_desc": "Open-source <strong>local AI assistant</strong> ecosystem from <a href=\"https://github.com/pocket-agent\">@pocket-agent</a> — Python <strong>Pocket Node</strong> runs LLM routing, tools, memory, and Telegram on your machine; a macOS desktop app bundles the stack; a Cloudflare Worker API and React web UI handle chat, monitor, and settings. Shared SDK contracts wire every repo together.",
+    "landing_page_label": "Landing Page"
   },
   "es": {
     "about_title": "💫 Sobre mí",
@@ -65,7 +67,9 @@
     "templates_col_summary": "Resumen",
     "github_template_desc": "Meta-repo público de org (`.github`) — perfil de org para visitantes, catálogo de repos inicial, asistente de init",
     "templates_org_profile_alt": "Perfil de org",
-    "templates_browse_alt": "Explorar plantillas"
+    "templates_browse_alt": "Explorar plantillas",
+    "pocket_agent_desc": "Ecosistema open-source de <strong>asistente de IA local</strong> de <a href=\"https://github.com/pocket-agent\">@pocket-agent</a> — Python <strong>Pocket Node</strong> ejecuta enrutamiento LLM, herramientas, memoria y Telegram en tu máquina; una app de escritorio macOS empaqueta el stack; una API Cloudflare Worker y una web UI en React gestionan chat, monitor y ajustes. Contratos SDK compartidos conectan todos los repos.",
+    "landing_page_label": "Página web"
   },
   "nl": {
     "about_title": "💫 Over mij",
@@ -99,7 +103,9 @@
     "templates_col_summary": "Samenvatting",
     "github_template_desc": "Publiek org meta-repo (`.github`) — bezoekersprofiel van de org, repository-catalogusstarter, init-wizard",
     "templates_org_profile_alt": "Org-profiel",
-    "templates_browse_alt": "Templates bekijken"
+    "templates_browse_alt": "Templates bekijken",
+    "pocket_agent_desc": "Open-source <strong>lokale AI-assistent</strong> ecosysteem van <a href=\"https://github.com/pocket-agent\">@pocket-agent</a> — Python <strong>Pocket Node</strong> draait LLM-routing, tools, geheugen en Telegram op je machine; een macOS desktop-app bundelt de stack; een Cloudflare Worker API en React web UI voor chat, monitor en instellingen. Gedeelde SDK-contracten verbinden elke repo.",
+    "landing_page_label": "Landingspagina"
   },
   "ru": {
     "about_title": "💫 Обо мне",
@@ -133,7 +139,9 @@
     "templates_col_summary": "Кратко",
     "github_template_desc": "Публичный org meta-repo (`.github`) — профиль org для посетителей, стартовый каталог репозиториев, init wizard",
     "templates_org_profile_alt": "Профиль org",
-    "templates_browse_alt": "Смотреть шаблоны"
+    "templates_browse_alt": "Смотреть шаблоны",
+    "pocket_agent_desc": "Open-source экосистема <strong>локального AI-ассистента</strong> от <a href=\"https://github.com/pocket-agent\">@pocket-agent</a> — Python <strong>Pocket Node</strong> запускает LLM-маршрутизацию, tools, память и Telegram на вашей машине; macOS desktop app упаковывает стек; Cloudflare Worker API и React web UI для чата, монитора и настроек. Общие SDK-контракты связывают все репозитории.",
+    "landing_page_label": "Лендинг"
   },
   "zh": {
     "about_title": "💫 关于我",
@@ -167,7 +175,9 @@
     "templates_col_summary": "摘要",
     "github_template_desc": "公开 org 元仓库（`.github`）— 面向访客的 org 资料、仓库目录 starter、init 向导",
     "templates_org_profile_alt": "Org 资料",
-    "templates_browse_alt": "浏览模板"
+    "templates_browse_alt": "浏览模板",
+    "pocket_agent_desc": "来自 <a href=\"https://github.com/pocket-agent\">@pocket-agent</a> 的开源<strong>本地 AI 助手</strong>生态 — Python <strong>Pocket Node</strong> 在你的机器上运行 LLM 路由、tools、memory 和 Telegram；macOS 桌面应用打包整个技术栈；Cloudflare Worker API 与 React Web UI 处理聊天、监控和设置。共享 SDK 契约串联所有仓库。",
+    "landing_page_label": "落地页"
   },
   "ja": {
     "about_title": "💫 自己紹介",
@@ -201,7 +211,9 @@
     "templates_col_summary": "概要",
     "github_template_desc": "公開 org メタリポ（`.github`）— 訪問者向け org プロフィール、リポジトリカタログ starter、init ウィザード",
     "templates_org_profile_alt": "Org プロフィール",
-    "templates_browse_alt": "テンプレートを見る"
+    "templates_browse_alt": "テンプレートを見る",
+    "pocket_agent_desc": "<a href=\"https://github.com/pocket-agent\">@pocket-agent</a> のオープンソース<strong>ローカル AI アシスタント</strong>エコシステム — Python <strong>Pocket Node</strong> がマシン上で LLM ルーティング、tools、memory、Telegram を実行；macOS デスクトップアプリがスタックを同梱；Cloudflare Worker API と React web UI がチャット、モニター、設定を担当。共有 SDK 契約が各リポジトリを接続。",
+    "landing_page_label": "ランディングページ"
   },
   "ar": {
     "dir": "rtl",
@@ -236,7 +248,9 @@
     "templates_col_summary": "ملخص",
     "github_template_desc": "مستودع meta عام للمنظمة (`.github`) — ملف org للزوار وكاتالوج repos أولي ومعالج init",
     "templates_org_profile_alt": "ملف المنظمة",
-    "templates_browse_alt": "تصفح القوالب"
+    "templates_browse_alt": "تصفح القوالب",
+    "pocket_agent_desc": "نظام بيئي مفتوح المصدر ل<strong>مساعد AI محلي</strong> من <a href=\"https://github.com/pocket-agent\">@pocket-agent</a> — Python <strong>Pocket Node</strong> يشغّل توجيه LLM والأدوات والذاكرة وTelegram على جهازك؛ تطبيق macOS سطح مكتب يضم المكدس؛ API Cloudflare Worker وواجهة React للدردشة والمراقبة والإعدادات. عقود SDK مشتركة تربط كل المستودعات.",
+    "landing_page_label": "صفحة الهبوط"
   },
   "it": {
     "about_title": "💫 Chi sono",
@@ -270,7 +284,9 @@
     "templates_col_summary": "Riepilogo",
     "github_template_desc": "Meta-repo org pubblico (`.github`) — profilo org per visitatori, catalogo repository starter, init wizard",
     "templates_org_profile_alt": "Profilo org",
-    "templates_browse_alt": "Sfoglia template"
+    "templates_browse_alt": "Sfoglia template",
+    "pocket_agent_desc": "Ecosistema open-source di <strong>assistente AI locale</strong> da <a href=\"https://github.com/pocket-agent\">@pocket-agent</a> — Python <strong>Pocket Node</strong> esegue routing LLM, tools, memoria e Telegram sulla tua macchina; un'app desktop macOS impacchetta lo stack; un'API Cloudflare Worker e una web UI React gestiscono chat, monitor e impostazioni. Contratti SDK condivisi collegano ogni repo.",
+    "landing_page_label": "Pagina web"
   },
   "fr": {
     "about_title": "💫 À propos de moi",
@@ -304,7 +320,9 @@
     "templates_col_summary": "Résumé",
     "github_template_desc": "Méta-dépôt org public (`.github`) — profil org pour visiteurs, catalogue de dépôts starter, init wizard",
     "templates_org_profile_alt": "Profil org",
-    "templates_browse_alt": "Parcourir les modèles"
+    "templates_browse_alt": "Parcourir les modèles",
+    "pocket_agent_desc": "Écosystème open-source d'<strong>assistant IA local</strong> par <a href=\"https://github.com/pocket-agent\">@pocket-agent</a> — Python <strong>Pocket Node</strong> exécute le routage LLM, les tools, la mémoire et Telegram sur votre machine ; une app desktop macOS embarque la stack ; une API Cloudflare Worker et une web UI React gèrent chat, monitor et paramètres. Des contrats SDK partagés relient chaque dépôt.",
+    "landing_page_label": "Page d'accueil"
   },
   "ca": {
     "about_title": "💫 Sobre mi",
@@ -338,7 +356,9 @@
     "templates_col_summary": "Resum",
     "github_template_desc": "Meta-repo públic d'org (`.github`) — perfil d'org per a visitants, catàleg de repos inicial, assistent d'init",
     "templates_org_profile_alt": "Perfil d'org",
-    "templates_browse_alt": "Explorar plantilles"
+    "templates_browse_alt": "Explorar plantilles",
+    "pocket_agent_desc": "Ecosistema open-source d'<strong>assistent d'IA local</strong> de <a href=\"https://github.com/pocket-agent\">@pocket-agent</a> — Python <strong>Pocket Node</strong> executa encaminament LLM, eines, memòria i Telegram a la teva màquina; una app d'escriptori macOS empaqueta el stack; una API Cloudflare Worker i una web UI React gestionen xat, monitor i configuració. Contractes SDK compartits connecten cada repo.",
+    "landing_page_label": "Pàgina web"
   },
   "de": {
     "about_title": "💫 Über mich",
@@ -372,7 +392,9 @@
     "templates_col_summary": "Zusammenfassung",
     "github_template_desc": "Öffentliches Org-Meta-Repo (`.github`) — besucherorientiertes Org-Profil, Repository-Katalog-Starter, Init-Wizard",
     "templates_org_profile_alt": "Org-Profil",
-    "templates_browse_alt": "Templates durchsuchen"
+    "templates_browse_alt": "Templates durchsuchen",
+    "pocket_agent_desc": "Open-Source-<strong>lokaler KI-Assistent</strong>-Ökosystem von <a href=\"https://github.com/pocket-agent\">@pocket-agent</a> — Python <strong>Pocket Node</strong> führt LLM-Routing, Tools, Memory und Telegram auf deinem Rechner aus; eine macOS-Desktop-App bündelt den Stack; eine Cloudflare Worker API und React-Web-UI für Chat, Monitor und Einstellungen. Gemeinsame SDK-Verträge verbinden jedes Repo.",
+    "landing_page_label": "Landingpage"
   },
   "pt": {
     "about_title": "💫 Sobre mim",
@@ -406,7 +428,9 @@
     "templates_col_summary": "Resumo",
     "github_template_desc": "Meta-repo público de org (`.github`) — perfil de org para visitantes, catálogo de repositórios starter, init wizard",
     "templates_org_profile_alt": "Perfil da org",
-    "templates_browse_alt": "Explorar templates"
+    "templates_browse_alt": "Explorar templates",
+    "pocket_agent_desc": "Ecossistema open-source de <strong>assistente de IA local</strong> da <a href=\"https://github.com/pocket-agent\">@pocket-agent</a> — Python <strong>Pocket Node</strong> executa roteamento LLM, ferramentas, memória e Telegram na sua máquina; uma app desktop macOS empacota o stack; uma API Cloudflare Worker e web UI React gerem chat, monitor e definições. Contratos SDK partilhados ligam cada repositório.",
+    "landing_page_label": "Página inicial"
   },
   "hi": {
     "about_title": "💫 मेरे बारे में",
@@ -440,7 +464,9 @@
     "templates_col_summary": "सारांश",
     "github_template_desc": "सार्वजनिक org meta-repo (`.github`) — visitors के लिए org profile, repository catalog starter, init wizard",
     "templates_org_profile_alt": "Org profile",
-    "templates_browse_alt": "Templates देखें"
+    "templates_browse_alt": "Templates देखें",
+    "pocket_agent_desc": "<a href=\"https://github.com/pocket-agent\">@pocket-agent</a> का ओपन-सोर्स <strong>स्थानीय AI सहायक</strong> इकोसिस्टम — Python <strong>Pocket Node</strong> आपकी मशीन पर LLM routing, tools, memory और Telegram चलाता है; macOS desktop app स्टैक को बंडल करती है; Cloudflare Worker API और React web UI chat, monitor और settings संभालते हैं। साझा SDK contracts हर repo को जोड़ते हैं।",
+    "landing_page_label": "लैंडिंग पेज"
   },
   "id": {
     "about_title": "💫 Tentang Saya",
@@ -474,7 +500,9 @@
     "templates_col_summary": "Ringkasan",
     "github_template_desc": "Meta-repo org publik (`.github`) — profil org untuk pengunjung, katalog repositori starter, init wizard",
     "templates_org_profile_alt": "Profil org",
-    "templates_browse_alt": "Jelajahi template"
+    "templates_browse_alt": "Jelajahi template",
+    "pocket_agent_desc": "Ekosistem <strong>asisten AI lokal</strong> open-source dari <a href=\"https://github.com/pocket-agent\">@pocket-agent</a> — Python <strong>Pocket Node</strong> menjalankan routing LLM, tools, memori, dan Telegram di mesin Anda; aplikasi desktop macOS membundel stack; API Cloudflare Worker dan web UI React menangani chat, monitor, dan pengaturan. Kontrak SDK bersama menghubungkan setiap repo.",
+    "landing_page_label": "Halaman utama"
   },
   "ko": {
     "about_title": "💫 소개",
@@ -508,7 +536,9 @@
     "templates_col_summary": "요약",
     "github_template_desc": "공개 org 메타 저장소(`.github`) — 방문자용 org 프로필, 저장소 카탈로그 스타터, init 마법사",
     "templates_org_profile_alt": "Org 프로필",
-    "templates_browse_alt": "템플릿 둘러보기"
+    "templates_browse_alt": "템플릿 둘러보기",
+    "pocket_agent_desc": "<a href=\"https://github.com/pocket-agent\">@pocket-agent</a>의 오픈 소스 <strong>로컬 AI 어시스턴트</strong> 생태계 — Python <strong>Pocket Node</strong>가 기기에서 LLM 라우팅, tools, memory, Telegram을 실행합니다; macOS 데스크톱 앱이 스택을 번들링하고, Cloudflare Worker API와 React web UI가 채팅, 모니터, 설정을 처리합니다. 공유 SDK 계약이 모든 저장소를 연결합니다.",
+    "landing_page_label": "랜딩 페이지"
   },
   "he": {
     "dir": "rtl",
@@ -543,7 +573,9 @@
     "templates_col_summary": "תקציר",
     "github_template_desc": "מטא-repo ציבורי של org (`.github`) — פרופיל org לצופים, קטלוג repos התחלתי, אשף init",
     "templates_org_profile_alt": "פרופיל org",
-    "templates_browse_alt": "עיון בתבניות"
+    "templates_browse_alt": "עיון בתבניות",
+    "pocket_agent_desc": "מערכת אקולוגית של <strong>עוזר AI מקומי</strong> בקוד פתוח מ-<a href=\"https://github.com/pocket-agent\">@pocket-agent</a> — Python <strong>Pocket Node</strong> מריץ ניתוב LLM, כלים, זיכרון ו-Telegram על המכונה שלך; אפליקציית macOS שולחנית אורזת את ה-stack; API של Cloudflare Worker וממשק React לצ'אט, ניטור והגדרות. חוזי SDK משותפים מחברים כל repo.",
+    "landing_page_label": "דף נחיתה"
   },
   "tr": {
     "about_title": "💫 Hakkımda",
@@ -577,6 +609,8 @@
     "templates_col_summary": "Özet",
     "github_template_desc": "Herkese açık org meta-repo (`.github`) — ziyaretçilere yönelik org profili, depo kataloğu starter, init sihirbazı",
     "templates_org_profile_alt": "Org profili",
-    "templates_browse_alt": "Şablonlara göz at"
+    "templates_browse_alt": "Şablonlara göz at",
+    "pocket_agent_desc": "<a href=\"https://github.com/pocket-agent\">@pocket-agent</a> kaynaklı açık kaynak <strong>yerel AI asistanı</strong> ekosistemi — Python <strong>Pocket Node</strong> makinenizde LLM yönlendirme, araçlar, bellek ve Telegram çalıştırır; macOS masaüstü uygulaması yığını paketler; Cloudflare Worker API ve React web UI sohbet, izleme ve ayarları yönetir. Paylaşılan SDK sözleşmeleri her repoyu birbirine bağlar.",
+    "landing_page_label": "Açılış sayfası"
   }
 }

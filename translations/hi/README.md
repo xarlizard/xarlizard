@@ -42,7 +42,7 @@
 
 <p>
 <a href="https://linkedin.com/in/charlie-rios"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<img src="https://gitviews.com/user/xarlizard.svg" alt="प्रोफ़ाइल दृश्य"/>
+<img src="https://komarev.com/ghpvc/?username=xarlizard&label=%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%AB%E0%A4%BC%E0%A4%BE%E0%A4%87%E0%A4%B2%20%E0%A4%A6%E0%A5%83%E0%A4%B6%E0%A5%8D%E0%A4%AF&color=0e75b6&style=flat" alt="प्रोफ़ाइल दृश्य"/>
 </p>
 
 <p>मैं end-to-end उत्पाद बनाता हूँ: UI architecture और design systems से लेकर APIs, infra और production deployments तक। मैंने <strong>Frontend Lead</strong> के रूप में frontend टीमों का नेतृत्व किया, <strong>Product Engineer</strong> के रूप में features का ownership लिया, और web, mobile और cloud पर ship किया। आज मैं <strong>native AI developer</strong> के रूप में बढ़ रहा हूँ, ऐसे intelligent systems बना रहा हूँ जो real users तक पहुँचते हैं।</p>
@@ -65,8 +65,47 @@
 </p>
 <p>Native macOS menu bar ऐप जो <strong>Cursor</strong>, <strong>OpenAI</strong>, <strong>Anthropic</strong> और अन्य पर AI usage को एक करता है — provider dashboards के बीच switching किए बिना tokens, credits, spend और burn rate ट्रैक करें। Notification Center widgets, usage alerts और Keychain में privacy-first credential storage शामिल।</p>
 <p>
-<a href="https://token-bar.pages.dev/"><img src="https://img.shields.io/badge/LIVE_DEMO-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Live Demo"/></a>
+<a href="https://token-bar.pages.dev/"><img src="https://img.shields.io/badge/%E0%A4%B2%E0%A5%88%E0%A4%82%E0%A4%A1%E0%A4%BF%E0%A4%82%E0%A4%97_%E0%A4%AA%E0%A5%87%E0%A4%9C-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="लैंडिंग पेज"/></a>
 <a href="https://github.com/token-bar/token-bar"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
+</div>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/pocket-agent/pocket-agent/main/.github/icon-cropped.png" width="200" alt="Pocket Agent" align="left"/>
+<a href="https://github.com/pocket-agent/pocket-agent-desktop-app/releases"><img src="https://raw.githubusercontent.com/token-bar/token-bar/main/.github/macos_badge_noborder.png" width="175" alt="macOS के लिए डाउनलोड करें" align="right"/></a>
+
+<div>
+<h3><a href="https://github.com/pocket-agent/pocket-agent">Pocket Agent</a></h3>
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white" alt="Cloudflare"/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white" alt="macOS"/>
+</p>
+<p><a href="https://github.com/pocket-agent">@pocket-agent</a> का ओपन-सोर्स <strong>स्थानीय AI सहायक</strong> इकोसिस्टम — Python <strong>Pocket Node</strong> आपकी मशीन पर LLM routing, tools, memory और Telegram चलाता है; macOS desktop app स्टैक को बंडल करती है; Cloudflare Worker API और React web UI chat, monitor और settings संभालते हैं। साझा SDK contracts हर repo को जोड़ते हैं।</p>
+<p>
+<a href="https://pocket-agent.pages.dev/"><img src="https://img.shields.io/badge/%E0%A4%B2%E0%A5%88%E0%A4%82%E0%A4%A1%E0%A4%BF%E0%A4%82%E0%A4%97_%E0%A4%AA%E0%A5%87%E0%A4%9C-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="लैंडिंग पेज"/></a>
+<a href="https://github.com/pocket-agent"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
+</div>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/dropafile/dropafile/main/.github/icon-cropped.png" width="200" alt="dropafile" align="left"/>
+
+<div>
+<h3><a href="https://github.com/dropafile/dropafile">dropafile</a></h3>
+<p>
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white" alt="Cloudflare"/>
+<img src="https://img.shields.io/badge/Hono-E36002?style=flat&logo=hono&logoColor=white" alt="Hono"/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/>
+</p>
+<p><strong>फ़ाइल छोड़ें। सभी को लाइव मिलती है।</strong> <strong>Cloudflare Workers</strong> पर ephemeral live-session फ़ाइल शेयरिंग — room बनाएं, link या QR code साझा करें, और जुड़े peers real time में डाउनलोड करें। edge पर WebSocket signaling; फ़ाइल bytes browser में peer-to-peer बहती हैं। कोई account नहीं, कोई persistent storage नहीं।</p>
+<p>
+<a href="https://dropafile.app-org-es.workers.dev/"><img src="https://img.shields.io/badge/LIVE_DEMO-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Live Demo"/></a>
+<a href="https://github.com/dropafile/dropafile"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 </div>
 
@@ -87,25 +126,6 @@
 <p>
 <a href="https://email-signature-editor.pages.dev/"><img src="https://img.shields.io/badge/LIVE_DEMO-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Live Demo"/></a>
 <a href="https://github.com/xarlizard/email-signature-editor"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-</p>
-</div>
-
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/dropafile/dropafile/main/.github/icon-cropped.png" width="200" alt="dropafile" align="left"/>
-
-<div>
-<h3><a href="https://github.com/dropafile/dropafile">dropafile</a></h3>
-<p>
-<img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white" alt="Cloudflare"/>
-<img src="https://img.shields.io/badge/Hono-E36002?style=flat&logo=hono&logoColor=white" alt="Hono"/>
-<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React"/>
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/>
-</p>
-<p><strong>फ़ाइल छोड़ें। सभी को लाइव मिलती है।</strong> <strong>Cloudflare Workers</strong> पर ephemeral live-session फ़ाइल शेयरिंग — room बनाएं, link या QR code साझा करें, और जुड़े peers real time में डाउनलोड करें। edge पर WebSocket signaling; फ़ाइल bytes browser में peer-to-peer बहती हैं। कोई account नहीं, कोई persistent storage नहीं।</p>
-<p>
-<a href="https://dropafile.app-org-es.workers.dev/"><img src="https://img.shields.io/badge/LIVE_DEMO-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Live Demo"/></a>
-<a href="https://github.com/dropafile/dropafile"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 </div>
 

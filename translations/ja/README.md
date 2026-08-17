@@ -42,7 +42,7 @@
 
 <p>
 <a href="https://linkedin.com/in/charlie-rios"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<img src="https://gitviews.com/user/xarlizard.svg" alt="プロフィール閲覧数"/>
+<img src="https://komarev.com/ghpvc/?username=xarlizard&label=%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E9%96%B2%E8%A6%A7%E6%95%B0&color=0e75b6&style=flat" alt="プロフィール閲覧数"/>
 </p>
 
 <p>UI アーキテクチャや design systems から API、インフラ、本番デプロイまで、プロダクトを end-to-end で構築しています。<strong>Frontend Lead</strong> としてフロントエンドチームを率い、<strong>Product Engineer</strong> として機能を担当し、web、mobile、cloud 向けにリリースしてきました。現在は <strong>native AI developer</strong> として成長中で、実際のユーザーに届くインテリジェントなシステムを構築しています。</p>
@@ -65,8 +65,47 @@
 </p>
 <p><strong>Cursor</strong>、<strong>OpenAI</strong>、<strong>Anthropic</strong> などの AI 利用を統合するネイティブ macOS menu bar アプリ — provider ダッシュボードを行き来せずに tokens、credits、支出、burn rate を追跡。Notification Center ウィジェット、usage alerts、Keychain による privacy-first な credential 保存を搭載。</p>
 <p>
-<a href="https://token-bar.pages.dev/"><img src="https://img.shields.io/badge/LIVE_DEMO-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Live Demo"/></a>
+<a href="https://token-bar.pages.dev/"><img src="https://img.shields.io/badge/%E3%83%A9%E3%83%B3%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%9A%E3%83%BC%E3%82%B8-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="ランディングページ"/></a>
 <a href="https://github.com/token-bar/token-bar"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
+</div>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/pocket-agent/pocket-agent/main/.github/icon-cropped.png" width="200" alt="Pocket Agent" align="left"/>
+<a href="https://github.com/pocket-agent/pocket-agent-desktop-app/releases"><img src="https://raw.githubusercontent.com/token-bar/token-bar/main/.github/macos_badge_noborder.png" width="175" alt="macOS 版をダウンロード" align="right"/></a>
+
+<div>
+<h3><a href="https://github.com/pocket-agent/pocket-agent">Pocket Agent</a></h3>
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white" alt="Cloudflare"/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white" alt="macOS"/>
+</p>
+<p><a href="https://github.com/pocket-agent">@pocket-agent</a> のオープンソース<strong>ローカル AI アシスタント</strong>エコシステム — Python <strong>Pocket Node</strong> がマシン上で LLM ルーティング、tools、memory、Telegram を実行；macOS デスクトップアプリがスタックを同梱；Cloudflare Worker API と React web UI がチャット、モニター、設定を担当。共有 SDK 契約が各リポジトリを接続。</p>
+<p>
+<a href="https://pocket-agent.pages.dev/"><img src="https://img.shields.io/badge/%E3%83%A9%E3%83%B3%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%9A%E3%83%BC%E3%82%B8-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="ランディングページ"/></a>
+<a href="https://github.com/pocket-agent"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
+</div>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/dropafile/dropafile/main/.github/icon-cropped.png" width="200" alt="dropafile" align="left"/>
+
+<div>
+<h3><a href="https://github.com/dropafile/dropafile">dropafile</a></h3>
+<p>
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white" alt="Cloudflare"/>
+<img src="https://img.shields.io/badge/Hono-E36002?style=flat&logo=hono&logoColor=white" alt="Hono"/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/>
+</p>
+<p><strong>ファイルをドロップ。全員がライブで受け取る。</strong> <strong>Cloudflare Workers</strong> 上の一時的な live-session ファイル共有 — ルームを作成し、リンクや QR コードを共有して、接続中のピアがリアルタイムでダウンロード。エッジでの WebSocket シグナリング、ファイルバイトはブラウザ内で P2P。アカウント不要、永続ストレージなし。</p>
+<p>
+<a href="https://dropafile.app-org-es.workers.dev/"><img src="https://img.shields.io/badge/LIVE_DEMO-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Live Demo"/></a>
+<a href="https://github.com/dropafile/dropafile"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 </div>
 
@@ -87,25 +126,6 @@
 <p>
 <a href="https://email-signature-editor.pages.dev/"><img src="https://img.shields.io/badge/LIVE_DEMO-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Live Demo"/></a>
 <a href="https://github.com/xarlizard/email-signature-editor"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-</p>
-</div>
-
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/dropafile/dropafile/main/.github/icon-cropped.png" width="200" alt="dropafile" align="left"/>
-
-<div>
-<h3><a href="https://github.com/dropafile/dropafile">dropafile</a></h3>
-<p>
-<img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white" alt="Cloudflare"/>
-<img src="https://img.shields.io/badge/Hono-E36002?style=flat&logo=hono&logoColor=white" alt="Hono"/>
-<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React"/>
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/>
-</p>
-<p><strong>ファイルをドロップ。全員がライブで受け取る。</strong> <strong>Cloudflare Workers</strong> 上の一時的な live-session ファイル共有 — ルームを作成し、リンクや QR コードを共有して、接続中のピアがリアルタイムでダウンロード。エッジでの WebSocket シグナリング、ファイルバイトはブラウザ内で P2P。アカウント不要、永続ストレージなし。</p>
-<p>
-<a href="https://dropafile.app-org-es.workers.dev/"><img src="https://img.shields.io/badge/LIVE_DEMO-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Live Demo"/></a>
-<a href="https://github.com/dropafile/dropafile"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 </div>
 

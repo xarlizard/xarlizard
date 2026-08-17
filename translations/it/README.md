@@ -42,7 +42,7 @@
 
 <p>
 <a href="https://linkedin.com/in/charlie-rios"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<img src="https://gitviews.com/user/xarlizard.svg" alt="Visualizzazioni del profilo"/>
+<img src="https://komarev.com/ghpvc/?username=xarlizard&label=Visualizzazioni%20del%20profilo&color=0e75b6&style=flat" alt="Visualizzazioni del profilo"/>
 </p>
 
 <p>Costruisco prodotti end-to-end: dall'architettura UI e design systems ad API, infra e deploy in produzione. Ho guidato team frontend come <strong>Frontend Lead</strong>, gestito feature come <strong>Product Engineer</strong> e rilasciato su web, mobile e cloud. Oggi cresco come <strong>native AI developer</strong>, costruendo sistemi intelligenti che raggiungono utenti reali.</p>
@@ -65,8 +65,47 @@
 </p>
 <p>App nativa macOS per la menu bar che unifica l'uso dell'AI tra <strong>Cursor</strong>, <strong>OpenAI</strong>, <strong>Anthropic</strong> e altri — monitora tokens, credits, spesa e burn rate senza saltare tra le dashboard dei provider. Include widget Notification Center, usage alerts e storage privacy-first delle credentials nel Keychain.</p>
 <p>
-<a href="https://token-bar.pages.dev/"><img src="https://img.shields.io/badge/LIVE_DEMO-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Live Demo"/></a>
+<a href="https://token-bar.pages.dev/"><img src="https://img.shields.io/badge/Pagina_web-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Pagina web"/></a>
 <a href="https://github.com/token-bar/token-bar"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
+</div>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/pocket-agent/pocket-agent/main/.github/icon-cropped.png" width="200" alt="Pocket Agent" align="left"/>
+<a href="https://github.com/pocket-agent/pocket-agent-desktop-app/releases"><img src="https://raw.githubusercontent.com/token-bar/token-bar/main/.github/macos_badge_noborder.png" width="175" alt="Scarica per macOS" align="right"/></a>
+
+<div>
+<h3><a href="https://github.com/pocket-agent/pocket-agent">Pocket Agent</a></h3>
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white" alt="Cloudflare"/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white" alt="macOS"/>
+</p>
+<p>Ecosistema open-source di <strong>assistente AI locale</strong> da <a href="https://github.com/pocket-agent">@pocket-agent</a> — Python <strong>Pocket Node</strong> esegue routing LLM, tools, memoria e Telegram sulla tua macchina; un'app desktop macOS impacchetta lo stack; un'API Cloudflare Worker e una web UI React gestiscono chat, monitor e impostazioni. Contratti SDK condivisi collegano ogni repo.</p>
+<p>
+<a href="https://pocket-agent.pages.dev/"><img src="https://img.shields.io/badge/Pagina_web-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Pagina web"/></a>
+<a href="https://github.com/pocket-agent"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
+</div>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/dropafile/dropafile/main/.github/icon-cropped.png" width="200" alt="dropafile" align="left"/>
+
+<div>
+<h3><a href="https://github.com/dropafile/dropafile">dropafile</a></h3>
+<p>
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white" alt="Cloudflare"/>
+<img src="https://img.shields.io/badge/Hono-E36002?style=flat&logo=hono&logoColor=white" alt="Hono"/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/>
+</p>
+<p><strong>Trascina un file. Tutti lo ricevono in diretta.</strong> Condivisione effimera di file in live-session su <strong>Cloudflare Workers</strong> — crea una room, condividi link o QR code e lascia che i peer connessi scarichino in tempo reale. Segnalazione WebSocket sull'edge; i byte viaggiano peer-to-peer nel browser. Nessun account, nessun storage persistente.</p>
+<p>
+<a href="https://dropafile.app-org-es.workers.dev/"><img src="https://img.shields.io/badge/LIVE_DEMO-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Live Demo"/></a>
+<a href="https://github.com/dropafile/dropafile"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 </div>
 
@@ -87,25 +126,6 @@
 <p>
 <a href="https://email-signature-editor.pages.dev/"><img src="https://img.shields.io/badge/LIVE_DEMO-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Live Demo"/></a>
 <a href="https://github.com/xarlizard/email-signature-editor"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-</p>
-</div>
-
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/dropafile/dropafile/main/.github/icon-cropped.png" width="200" alt="dropafile" align="left"/>
-
-<div>
-<h3><a href="https://github.com/dropafile/dropafile">dropafile</a></h3>
-<p>
-<img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white" alt="Cloudflare"/>
-<img src="https://img.shields.io/badge/Hono-E36002?style=flat&logo=hono&logoColor=white" alt="Hono"/>
-<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React"/>
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/>
-</p>
-<p><strong>Trascina un file. Tutti lo ricevono in diretta.</strong> Condivisione effimera di file in live-session su <strong>Cloudflare Workers</strong> — crea una room, condividi link o QR code e lascia che i peer connessi scarichino in tempo reale. Segnalazione WebSocket sull'edge; i byte viaggiano peer-to-peer nel browser. Nessun account, nessun storage persistente.</p>
-<p>
-<a href="https://dropafile.app-org-es.workers.dev/"><img src="https://img.shields.io/badge/LIVE_DEMO-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Live Demo"/></a>
-<a href="https://github.com/dropafile/dropafile"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 </div>
 

@@ -42,7 +42,7 @@
 
 <p>
 <a href="https://linkedin.com/in/charlie-rios"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<img src="https://gitviews.com/user/xarlizard.svg" alt="프로필 조회수"/>
+<img src="https://komarev.com/ghpvc/?username=xarlizard&label=%ED%94%84%EB%A1%9C%ED%95%84%20%EC%A1%B0%ED%9A%8C%EC%88%98&color=0e75b6&style=flat" alt="프로필 조회수"/>
 </p>
 
 <p>UI 아키텍처와 디자인 시스템부터 API, 인프라, 프로덕션 배포까지 엔드투엔드로 제품을 만듭니다. <strong>Frontend Lead</strong>로 프론트엔드 팀을 이끌었고, <strong>Product Engineer</strong>로 기능을 소유했으며, 웹·모바일·클라우드 전반에 걸쳐 출시했습니다. 지금은 <strong>네이티브 AI 개발자</strong>로 성장하며 실제 사용자에게 도달하는 지능형 시스템을 구축하고 있습니다.</p>
@@ -65,8 +65,47 @@
 </p>
 <p>메뉴 막대용 네이티브 macOS 앱으로 <strong>Cursor</strong>, <strong>OpenAI</strong>, <strong>Anthropic</strong> 등 여러 AI 사용을 통합합니다 — 제공자 대시보드를 오가지 않고 토큰, 크레딧, 지출, 소진 속도를 추적합니다. Notification Center 위젯, 사용량 알림, Keychain 기반 프라이버시 우선 자격 증명 저장을 포함합니다.</p>
 <p>
-<a href="https://token-bar.pages.dev/"><img src="https://img.shields.io/badge/LIVE_DEMO-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Live Demo"/></a>
+<a href="https://token-bar.pages.dev/"><img src="https://img.shields.io/badge/%EB%9E%9C%EB%94%A9_%ED%8E%98%EC%9D%B4%EC%A7%80-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="랜딩 페이지"/></a>
 <a href="https://github.com/token-bar/token-bar"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
+</div>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/pocket-agent/pocket-agent/main/.github/icon-cropped.png" width="200" alt="Pocket Agent" align="left"/>
+<a href="https://github.com/pocket-agent/pocket-agent-desktop-app/releases"><img src="https://raw.githubusercontent.com/token-bar/token-bar/main/.github/macos_badge_noborder.png" width="175" alt="macOS용 다운로드" align="right"/></a>
+
+<div>
+<h3><a href="https://github.com/pocket-agent/pocket-agent">Pocket Agent</a></h3>
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white" alt="Cloudflare"/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white" alt="macOS"/>
+</p>
+<p><a href="https://github.com/pocket-agent">@pocket-agent</a>의 오픈 소스 <strong>로컬 AI 어시스턴트</strong> 생태계 — Python <strong>Pocket Node</strong>가 기기에서 LLM 라우팅, tools, memory, Telegram을 실행합니다; macOS 데스크톱 앱이 스택을 번들링하고, Cloudflare Worker API와 React web UI가 채팅, 모니터, 설정을 처리합니다. 공유 SDK 계약이 모든 저장소를 연결합니다.</p>
+<p>
+<a href="https://pocket-agent.pages.dev/"><img src="https://img.shields.io/badge/%EB%9E%9C%EB%94%A9_%ED%8E%98%EC%9D%B4%EC%A7%80-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="랜딩 페이지"/></a>
+<a href="https://github.com/pocket-agent"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
+</div>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/dropafile/dropafile/main/.github/icon-cropped.png" width="200" alt="dropafile" align="left"/>
+
+<div>
+<h3><a href="https://github.com/dropafile/dropafile">dropafile</a></h3>
+<p>
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white" alt="Cloudflare"/>
+<img src="https://img.shields.io/badge/Hono-E36002?style=flat&logo=hono&logoColor=white" alt="Hono"/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/>
+</p>
+<p><strong>파일을 드롭하세요. 모두가 실시간으로 받습니다.</strong> <strong>Cloudflare Workers</strong> 기반의 일시적 live-session 파일 공유 — 방을 만들고 링크나 QR 코드를 공유하면 연결된 피어가 실시간으로 다운로드합니다. 엣지에서 WebSocket 시그널링; 파일 바이트는 브라우저에서 P2P로 전송됩니다. 계정 없음, 영구 저장소 없음.</p>
+<p>
+<a href="https://dropafile.app-org-es.workers.dev/"><img src="https://img.shields.io/badge/LIVE_DEMO-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Live Demo"/></a>
+<a href="https://github.com/dropafile/dropafile"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 </div>
 
@@ -87,25 +126,6 @@
 <p>
 <a href="https://email-signature-editor.pages.dev/"><img src="https://img.shields.io/badge/LIVE_DEMO-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Live Demo"/></a>
 <a href="https://github.com/xarlizard/email-signature-editor"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-</p>
-</div>
-
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/dropafile/dropafile/main/.github/icon-cropped.png" width="200" alt="dropafile" align="left"/>
-
-<div>
-<h3><a href="https://github.com/dropafile/dropafile">dropafile</a></h3>
-<p>
-<img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white" alt="Cloudflare"/>
-<img src="https://img.shields.io/badge/Hono-E36002?style=flat&logo=hono&logoColor=white" alt="Hono"/>
-<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React"/>
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/>
-</p>
-<p><strong>파일을 드롭하세요. 모두가 실시간으로 받습니다.</strong> <strong>Cloudflare Workers</strong> 기반의 일시적 live-session 파일 공유 — 방을 만들고 링크나 QR 코드를 공유하면 연결된 피어가 실시간으로 다운로드합니다. 엣지에서 WebSocket 시그널링; 파일 바이트는 브라우저에서 P2P로 전송됩니다. 계정 없음, 영구 저장소 없음.</p>
-<p>
-<a href="https://dropafile.app-org-es.workers.dev/"><img src="https://img.shields.io/badge/LIVE_DEMO-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Live Demo"/></a>
-<a href="https://github.com/dropafile/dropafile"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 </div>
 

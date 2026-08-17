@@ -42,7 +42,7 @@
 
 <p>
 <a href="https://linkedin.com/in/charlie-rios"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<img src="https://gitviews.com/user/xarlizard.svg" alt="צפיות בפרופיל"/>
+<img src="https://komarev.com/ghpvc/?username=xarlizard&label=%D7%A6%D7%A4%D7%99%D7%95%D7%AA%20%D7%91%D7%A4%D7%A8%D7%95%D7%A4%D7%99%D7%9C&color=0e75b6&style=flat" alt="צפיות בפרופיל"/>
 </p>
 
 <p>אני בונה מוצרים מקצה לקצה: מארכיטקטורת UI ומערכות עיצוב ועד API, תשתית ופריסות בפרודקשן. הובלתי צוותי frontend כ<strong>Frontend Lead</strong>, בעלתי פיצ'רים כ<strong>Product Engineer</strong>, ושחררתי ב-web, mobile ו-cloud. כיום אני מתפתח כ<strong>מפתח AI native</strong>, ובונה מערכות חכמות שמגיעות למשתמשים אמיתיים.</p>
@@ -65,8 +65,47 @@
 </p>
 <p>אפליקציית macOS native לשורת התפריט שמאחדת שימוש ב-AI ב<strong>Cursor</strong>, <strong>OpenAI</strong>, <strong>Anthropic</strong> ועוד — מעקב אחר tokens, credits, הוצאות וקצב שריפה בלי לקפוץ בין דשבורדים של ספקים. כולל ווידג'טים ב-Notification Center, התראות שימוש ואחסון credentials ממוקד פרטיות ב-Keychain.</p>
 <p>
-<a href="https://token-bar.pages.dev/"><img src="https://img.shields.io/badge/LIVE_DEMO-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Live Demo"/></a>
+<a href="https://token-bar.pages.dev/"><img src="https://img.shields.io/badge/%D7%93%D7%A3_%D7%A0%D7%97%D7%99%D7%AA%D7%94-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="דף נחיתה"/></a>
 <a href="https://github.com/token-bar/token-bar"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
+</div>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/pocket-agent/pocket-agent/main/.github/icon-cropped.png" width="200" alt="Pocket Agent" align="left"/>
+<a href="https://github.com/pocket-agent/pocket-agent-desktop-app/releases"><img src="https://raw.githubusercontent.com/token-bar/token-bar/main/.github/macos_badge_noborder.png" width="175" alt="הורדה ל-macOS" align="right"/></a>
+
+<div>
+<h3><a href="https://github.com/pocket-agent/pocket-agent">Pocket Agent</a></h3>
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white" alt="Cloudflare"/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white" alt="macOS"/>
+</p>
+<p>מערכת אקולוגית של <strong>עוזר AI מקומי</strong> בקוד פתוח מ-<a href="https://github.com/pocket-agent">@pocket-agent</a> — Python <strong>Pocket Node</strong> מריץ ניתוב LLM, כלים, זיכרון ו-Telegram על המכונה שלך; אפליקציית macOS שולחנית אורזת את ה-stack; API של Cloudflare Worker וממשק React לצ'אט, ניטור והגדרות. חוזי SDK משותפים מחברים כל repo.</p>
+<p>
+<a href="https://pocket-agent.pages.dev/"><img src="https://img.shields.io/badge/%D7%93%D7%A3_%D7%A0%D7%97%D7%99%D7%AA%D7%94-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="דף נחיתה"/></a>
+<a href="https://github.com/pocket-agent"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
+</div>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/dropafile/dropafile/main/.github/icon-cropped.png" width="200" alt="dropafile" align="left"/>
+
+<div>
+<h3><a href="https://github.com/dropafile/dropafile">dropafile</a></h3>
+<p>
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white" alt="Cloudflare"/>
+<img src="https://img.shields.io/badge/Hono-E36002?style=flat&logo=hono&logoColor=white" alt="Hono"/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/>
+</p>
+<p><strong>שחררו קובץ. כולם מקבלים אותו בשידור חי.</strong> שיתוף קבצים אפמרלי ב-live-session על <strong>Cloudflare Workers</strong> — צרו חדר, שתפו קישור או QR code, ותנו ל-peers מחוברים להוריד בזמן אמת. אותות WebSocket ב-edge; בתי הקובץ זורמים peer-to-peer בדפדפן. ללא חשבונות וללא אחסון קבוע.</p>
+<p>
+<a href="https://dropafile.app-org-es.workers.dev/"><img src="https://img.shields.io/badge/LIVE_DEMO-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Live Demo"/></a>
+<a href="https://github.com/dropafile/dropafile"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 </div>
 
@@ -87,25 +126,6 @@
 <p>
 <a href="https://email-signature-editor.pages.dev/"><img src="https://img.shields.io/badge/LIVE_DEMO-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Live Demo"/></a>
 <a href="https://github.com/xarlizard/email-signature-editor"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-</p>
-</div>
-
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/dropafile/dropafile/main/.github/icon-cropped.png" width="200" alt="dropafile" align="left"/>
-
-<div>
-<h3><a href="https://github.com/dropafile/dropafile">dropafile</a></h3>
-<p>
-<img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white" alt="Cloudflare"/>
-<img src="https://img.shields.io/badge/Hono-E36002?style=flat&logo=hono&logoColor=white" alt="Hono"/>
-<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React"/>
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/>
-</p>
-<p><strong>שחררו קובץ. כולם מקבלים אותו בשידור חי.</strong> שיתוף קבצים אפמרלי ב-live-session על <strong>Cloudflare Workers</strong> — צרו חדר, שתפו קישור או QR code, ותנו ל-peers מחוברים להוריד בזמן אמת. אותות WebSocket ב-edge; בתי הקובץ זורמים peer-to-peer בדפדפן. ללא חשבונות וללא אחסון קבוע.</p>
-<p>
-<a href="https://dropafile.app-org-es.workers.dev/"><img src="https://img.shields.io/badge/LIVE_DEMO-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Live Demo"/></a>
-<a href="https://github.com/dropafile/dropafile"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 </div>
 

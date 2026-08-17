@@ -42,7 +42,7 @@
 
 <p>
 <a href="https://linkedin.com/in/charlie-rios"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<img src="https://gitviews.com/user/xarlizard.svg" alt="个人资料浏览量"/>
+<img src="https://komarev.com/ghpvc/?username=xarlizard&label=%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99%E6%B5%8F%E8%A7%88%E9%87%8F&color=0e75b6&style=flat" alt="个人资料浏览量"/>
 </p>
 
 <p>我端到端构建产品：从 UI 架构和 design systems 到 API、基础设施和生产部署。我曾以 <strong>Frontend Lead</strong> 身份带领前端团队，以 <strong>Product Engineer</strong> 负责功能交付，并在 web、mobile 和 cloud 上发布产品。如今我正成长为 <strong>native AI developer</strong>，构建面向真实用户的智能系统。</p>
@@ -65,8 +65,47 @@
 </p>
 <p>原生 macOS 菜单栏应用，统一 <strong>Cursor</strong>、<strong>OpenAI</strong>、<strong>Anthropic</strong> 等 AI 使用情况 — 无需在各 provider 仪表盘间切换，即可追踪 tokens、credits、支出和 burn rate。包含 Notification Center 小组件、usage alerts，以及 privacy-first 的 Keychain 凭证存储。</p>
 <p>
-<a href="https://token-bar.pages.dev/"><img src="https://img.shields.io/badge/LIVE_DEMO-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Live Demo"/></a>
+<a href="https://token-bar.pages.dev/"><img src="https://img.shields.io/badge/%E8%90%BD%E5%9C%B0%E9%A1%B5-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="落地页"/></a>
 <a href="https://github.com/token-bar/token-bar"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
+</div>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/pocket-agent/pocket-agent/main/.github/icon-cropped.png" width="200" alt="Pocket Agent" align="left"/>
+<a href="https://github.com/pocket-agent/pocket-agent-desktop-app/releases"><img src="https://raw.githubusercontent.com/token-bar/token-bar/main/.github/macos_badge_noborder.png" width="175" alt="下载 macOS 版" align="right"/></a>
+
+<div>
+<h3><a href="https://github.com/pocket-agent/pocket-agent">Pocket Agent</a></h3>
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white" alt="Cloudflare"/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white" alt="macOS"/>
+</p>
+<p>来自 <a href="https://github.com/pocket-agent">@pocket-agent</a> 的开源<strong>本地 AI 助手</strong>生态 — Python <strong>Pocket Node</strong> 在你的机器上运行 LLM 路由、tools、memory 和 Telegram；macOS 桌面应用打包整个技术栈；Cloudflare Worker API 与 React Web UI 处理聊天、监控和设置。共享 SDK 契约串联所有仓库。</p>
+<p>
+<a href="https://pocket-agent.pages.dev/"><img src="https://img.shields.io/badge/%E8%90%BD%E5%9C%B0%E9%A1%B5-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="落地页"/></a>
+<a href="https://github.com/pocket-agent"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
+</div>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/dropafile/dropafile/main/.github/icon-cropped.png" width="200" alt="dropafile" align="left"/>
+
+<div>
+<h3><a href="https://github.com/dropafile/dropafile">dropafile</a></h3>
+<p>
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white" alt="Cloudflare"/>
+<img src="https://img.shields.io/badge/Hono-E36002?style=flat&logo=hono&logoColor=white" alt="Hono"/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/>
+</p>
+<p><strong>拖放文件，人人实时收到。</strong>基于 <strong>Cloudflare Workers</strong> 的临时 live-session 文件共享 — 创建房间，分享链接或二维码，让已连接的节点实时下载。边缘 WebSocket 信令；文件字节在浏览器中点对点传输。无需账户，无持久存储。</p>
+<p>
+<a href="https://dropafile.app-org-es.workers.dev/"><img src="https://img.shields.io/badge/LIVE_DEMO-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Live Demo"/></a>
+<a href="https://github.com/dropafile/dropafile"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 </div>
 
@@ -87,25 +126,6 @@
 <p>
 <a href="https://email-signature-editor.pages.dev/"><img src="https://img.shields.io/badge/LIVE_DEMO-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Live Demo"/></a>
 <a href="https://github.com/xarlizard/email-signature-editor"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-</p>
-</div>
-
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/dropafile/dropafile/main/.github/icon-cropped.png" width="200" alt="dropafile" align="left"/>
-
-<div>
-<h3><a href="https://github.com/dropafile/dropafile">dropafile</a></h3>
-<p>
-<img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white" alt="Cloudflare"/>
-<img src="https://img.shields.io/badge/Hono-E36002?style=flat&logo=hono&logoColor=white" alt="Hono"/>
-<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React"/>
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/>
-</p>
-<p><strong>拖放文件，人人实时收到。</strong>基于 <strong>Cloudflare Workers</strong> 的临时 live-session 文件共享 — 创建房间，分享链接或二维码，让已连接的节点实时下载。边缘 WebSocket 信令；文件字节在浏览器中点对点传输。无需账户，无持久存储。</p>
-<p>
-<a href="https://dropafile.app-org-es.workers.dev/"><img src="https://img.shields.io/badge/LIVE_DEMO-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Live Demo"/></a>
-<a href="https://github.com/dropafile/dropafile"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 </div>
 

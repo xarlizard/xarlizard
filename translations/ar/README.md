@@ -92,24 +92,20 @@
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/xarlizard/carbnb-v0/main/.github/icon-cropped.png" width="200" alt="CarBnB" align="left"/>
+<img src="https://raw.githubusercontent.com/dropafile/dropafile/main/.github/icon-cropped.png" width="200" alt="dropafile" align="left"/>
 
 <div>
-<h3><b>CarBnB</b></h3>
+<h3><a href="https://github.com/dropafile/dropafile">dropafile</a></h3>
 <p>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" alt="Vercel"/>
- ·
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white" alt="Cloudflare"/>
+<img src="https://img.shields.io/badge/Hono-E36002?style=flat&logo=hono&logoColor=white" alt="Hono"/>
 <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React"/>
-<img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white" alt="Netlify"/>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/>
 </p>
-<p>Marketplace peer-to-peer لتأجير السيارات مستوحى من <strong>Airbnb</strong> — استأجر من مالكين محليين بدلًا من مكاتب التأجير التقليدية. frontendان proof-of-concept بـ <strong>Lovable</strong> و<strong>Vercel v0</strong> لمقارنة AI-assisted UI generation workflows.</p>
+<p><strong>أسقط ملفًا. الجميع يستلمه مباشرة.</strong> مشاركة ملفات عابرة في جلسة حية على <strong>Cloudflare Workers</strong> — أنشئ غرفة، شارك رابطًا أو رمز QR، ودع الأقران المتصلين يحمّلون في الوقت الفعلي. إشارات WebSocket على الحافة؛ تنتقل البايتات peer-to-peer في المتصفح. بدون حسابات أو تخزين دائم.</p>
 <p>
-<a href="https://carbnb.netlify.app/"><img src="https://img.shields.io/badge/LIVE_DEMO-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo"/></a>
-<a href="https://github.com/xarlizard/carbnb-lovable"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
- ·
-<a href="https://carbnb-v0.netlify.app/"><img src="https://img.shields.io/badge/LIVE_DEMO-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/></a>
-<a href="https://github.com/xarlizard/carbnb-v0"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://dropafile.app-org-es.workers.dev/"><img src="https://img.shields.io/badge/LIVE_DEMO-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Live Demo"/></a>
+<a href="https://github.com/dropafile/dropafile"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 </div>
 
@@ -117,38 +113,20 @@
 
 <h2 align="center"><b>📋 قوالب Open</b></h2>
 
-<p align="center">مستودعات بداية من <strong><a href="https://github.com/open-templates">@open-templates</a></strong> — للاستخدام منفردًا أو كحزم fullstack مزدوجة.</p>
+<p align="center">أملك وأدير <strong><a href="https://github.com/open-templates">@open-templates</a></strong> — قوالب GitHub قابلة لإعادة الاستخدام مع defaults معقولة ومعالجات init وحزم fullstack مزدوجة. بعض نقاط الدخول:</p>
 
-<h3 align="center"><b>📄 مستقلة</b></h3>
+| القالب | ملخص |
+| --- | --- |
+| [**github-repo-template**](https://github.com/open-templates/github-repo-template) | قشرة repo مستقلة عن الـ stack — community docs وDependabot وCODEOWNERS وقوالب issues وPR |
+| [**npm-package-template**](https://github.com/open-templates/npm-package-template) | حزمة npm TypeScript جاهزة للإنتاج — tsup وVitest وESLint وpublish workflows وCodeQL |
+| [**`.github-template`**](https://github.com/open-templates/.github-template) | مستودع meta عام للمنظمة (`.github`) — ملف org للزوار وكاتالوج repos أولي ومعالج init |
 
-| القالب | مجموعة التقنيات | الوصف |
-| --- | --- | --- |
-| [**github-repo-template**](https://github.com/open-templates/github-repo-template) | <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white" alt="GitHub Actions"/> | قالب مستودع GitHub مستقل عن الـ stack — community docs وDependabot وCODEOWNERS وقوالب issues وPR |
-| [**npm-package-template**](https://github.com/open-templates/npm-package-template) | <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/><img src="https://img.shields.io/badge/Vitest-252529?style=flat&logo=vitest&logoColor=FCC72B" alt="Vitest"/><img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat&logo=eslint&logoColor=white" alt="ESLint"/><img src="https://img.shields.io/badge/NPM-CB3837?style=flat&logo=npm&logoColor=white" alt="NPM"/> | حزمة npm TypeScript جاهزة للإنتاج — dual ESM/CJS builds وVitest وESLint ونشر آلي وCodeQL |
+<p align="center">
+<a href="https://github.com/open-templates"><img src="https://img.shields.io/badge/Org%20profile-open--templates-181717?style=for-the-badge&logo=github&logoColor=white" alt="ملف المنظمة"/></a>
+&nbsp;
+<a href="https://github.com/orgs/open-templates/repositories"><img src="https://img.shields.io/badge/Browse-all%20templates-2088FF?style=for-the-badge&logo=github&logoColor=white" alt="تصفح القوالب"/></a>
+</p>
 
-<br/>
-
-<h3 align="center"><b>⚡ حزم Fullstack</b></h3>
-
-<p align="center"><em>قوالب frontend وbackend متصلة بنفس عقود auth وAPI — انسخ الاثنين وانشر.</em></p>
-
-<h4 align="center"><b>🔐 حزمة Supabase Auth</b></h4>
-
-| الدور | القالب | مجموعة التقنيات | الوصف |
-| --- | --- | --- | --- |
-| Frontend | [**react-supabase-auth-template**](https://github.com/open-templates/react-supabase-auth-template) | <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React"/><img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" alt="Vite"/><img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" alt="Supabase"/><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/> | React 19 + Vite + Supabase Auth — بريد/كلمة مرور وGoogle OAuth ومسارات محمية وAPI health polling و`GET /me` |
-| Backend | [**cf-hono-supabase-api-template**](https://github.com/open-templates/cf-hono-supabase-api-template) | <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white" alt="Cloudflare"/><img src="https://img.shields.io/badge/Hono-E36002?style=flat&logo=hono&logoColor=white" alt="Hono"/><img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" alt="Supabase"/><img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/> | Cloudflare Worker + Hono + Supabase — `GET /health` عام و`GET /me` محمي بـ JWT |
-
-<br/>
-
-<h4 align="center"><b>🤖 حزمة AI Chat</b></h4>
-
-| الدور | القالب | مجموعة التقنيات | الوصف |
-| --- | --- | --- | --- |
-| Frontend | [**react-supabase-auth-ai-chat-template**](https://github.com/open-templates/react-supabase-auth-ai-chat-template) | <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React"/><img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" alt="Vite"/><img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" alt="Supabase"/><img src="https://img.shields.io/badge/Bun-%23000000.svg?style=flat&logo=bun&logoColor=white" alt="Bun"/> | SPA React 19 + Vite + Supabase Auth مع <strong>دردشة AI</strong> — جلسات وthreads وردود markdown و`POST /chat` متعدد الأدوار |
-| Backend | [**cf-hono-supabase-gemini-api-template**](https://github.com/open-templates/cf-hono-supabase-gemini-api-template) | <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white" alt="Cloudflare"/><img src="https://img.shields.io/badge/Hono-E36002?style=flat&logo=hono&logoColor=white" alt="Hono"/><img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" alt="Supabase"/><img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white" alt="Gemini"/> | Cloudflare Worker + Hono + Supabase + <strong>Gemini</strong> — `GET /health` وJWT `GET /me` و`POST /chat` مع سجل المحادثة |
-
-<br/><br/>
 <br/><br/>
 
 <h2 align="center"><b>📦 مكتبات Open Source</b></h2>

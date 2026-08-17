@@ -92,24 +92,20 @@
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/xarlizard/carbnb-v0/main/.github/icon-cropped.png" width="200" alt="CarBnB" align="left"/>
+<img src="https://raw.githubusercontent.com/dropafile/dropafile/main/.github/icon-cropped.png" width="200" alt="dropafile" align="left"/>
 
 <div>
-<h3><b>CarBnB</b></h3>
+<h3><a href="https://github.com/dropafile/dropafile">dropafile</a></h3>
 <p>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" alt="Vercel"/>
- ·
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white" alt="Cloudflare"/>
+<img src="https://img.shields.io/badge/Hono-E36002?style=flat&logo=hono&logoColor=white" alt="Hono"/>
 <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React"/>
-<img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white" alt="Netlify"/>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/>
 </p>
-<p><strong>Airbnb</strong> に着想を得た peer-to-peer カーシェア marketplace — 従来のレンタルカウンターではなく、地元のオーナーから車を借りられます。<strong>Lovable</strong> と <strong>Vercel v0</strong> で 2 つの proof-of-concept frontend を構築し、AI-assisted UI generation workflows を比較。</p>
+<p><strong>ファイルをドロップ。全員がライブで受け取る。</strong> <strong>Cloudflare Workers</strong> 上の一時的な live-session ファイル共有 — ルームを作成し、リンクや QR コードを共有して、接続中のピアがリアルタイムでダウンロード。エッジでの WebSocket シグナリング、ファイルバイトはブラウザ内で P2P。アカウント不要、永続ストレージなし。</p>
 <p>
-<a href="https://carbnb.netlify.app/"><img src="https://img.shields.io/badge/LIVE_DEMO-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo"/></a>
-<a href="https://github.com/xarlizard/carbnb-lovable"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
- ·
-<a href="https://carbnb-v0.netlify.app/"><img src="https://img.shields.io/badge/LIVE_DEMO-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/></a>
-<a href="https://github.com/xarlizard/carbnb-v0"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://dropafile.app-org-es.workers.dev/"><img src="https://img.shields.io/badge/LIVE_DEMO-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Live Demo"/></a>
+<a href="https://github.com/dropafile/dropafile"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 </div>
 
@@ -117,38 +113,20 @@
 
 <h2 align="center"><b>📋 オープンテンプレート</b></h2>
 
-<p align="center"><strong><a href="https://github.com/open-templates">@open-templates</a></strong> のスターターリポジトリ — 単体でも、ペアのフルスタックパックとしても利用可能。</p>
+<p align="center"><strong><a href="https://github.com/open-templates">@open-templates</a></strong> を所有・運用しています — 妥当なデフォルト、init ウィザード、ペアのフルスタックパック付きの再利用可能な GitHub スターターテンプレート。いくつかの入口：</p>
 
-<h3 align="center"><b>📄 スタンドアロン</b></h3>
+| テンプレート | 概要 |
+| --- | --- |
+| [**github-repo-template**](https://github.com/open-templates/github-repo-template) | stack-agnostic な repo shell — community docs、Dependabot、CODEOWNERS、issue & PR テンプレート |
+| [**npm-package-template**](https://github.com/open-templates/npm-package-template) | 本番向け TypeScript npm パッケージ — tsup、Vitest、ESLint、publish workflows & CodeQL |
+| [**`.github-template`**](https://github.com/open-templates/.github-template) | 公開 org メタリポ（`.github`）— 訪問者向け org プロフィール、リポジトリカタログ starter、init ウィザード |
 
-| テンプレート | テックスタック | 説明 |
-| --- | --- | --- |
-| [**github-repo-template**](https://github.com/open-templates/github-repo-template) | <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white" alt="GitHub Actions"/> | stack-agnostic な GitHub リポジトリ shell — community docs、Dependabot、CODEOWNERS、issue & PR テンプレート |
-| [**npm-package-template**](https://github.com/open-templates/npm-package-template) | <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/><img src="https://img.shields.io/badge/Vitest-252529?style=flat&logo=vitest&logoColor=FCC72B" alt="Vitest"/><img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat&logo=eslint&logoColor=white" alt="ESLint"/><img src="https://img.shields.io/badge/NPM-CB3837?style=flat&logo=npm&logoColor=white" alt="NPM"/> | 本番向け TypeScript npm パッケージ — dual ESM/CJS builds、Vitest、ESLint、自動 publish & CodeQL |
+<p align="center">
+<a href="https://github.com/open-templates"><img src="https://img.shields.io/badge/Org%20profile-open--templates-181717?style=for-the-badge&logo=github&logoColor=white" alt="Org プロフィール"/></a>
+&nbsp;
+<a href="https://github.com/orgs/open-templates/repositories"><img src="https://img.shields.io/badge/Browse-all%20templates-2088FF?style=for-the-badge&logo=github&logoColor=white" alt="テンプレートを見る"/></a>
+</p>
 
-<br/>
-
-<h3 align="center"><b>⚡ フルスタックパック</b></h3>
-
-<p align="center"><em>同じ auth と API 契約で接続された frontend / backend テンプレート — 両方を clone して ship。</em></p>
-
-<h4 align="center"><b>🔐 Supabase Auth Pack</b></h4>
-
-| 役割 | テンプレート | テックスタック | 説明 |
-| --- | --- | --- | --- |
-| Frontend | [**react-supabase-auth-template**](https://github.com/open-templates/react-supabase-auth-template) | <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React"/><img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" alt="Vite"/><img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" alt="Supabase"/><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/> | React 19 + Vite + Supabase Auth — メール/パスワード & Google OAuth、保護ルート、API health polling、`GET /me` |
-| Backend | [**cf-hono-supabase-api-template**](https://github.com/open-templates/cf-hono-supabase-api-template) | <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white" alt="Cloudflare"/><img src="https://img.shields.io/badge/Hono-E36002?style=flat&logo=hono&logoColor=white" alt="Hono"/><img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" alt="Supabase"/><img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/> | Cloudflare Worker + Hono + Supabase — 公開 `GET /health`、JWT 保護の `GET /me` |
-
-<br/>
-
-<h4 align="center"><b>🤖 AI Chat Pack</b></h4>
-
-| 役割 | テンプレート | テックスタック | 説明 |
-| --- | --- | --- | --- |
-| Frontend | [**react-supabase-auth-ai-chat-template**](https://github.com/open-templates/react-supabase-auth-ai-chat-template) | <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React"/><img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" alt="Vite"/><img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" alt="Supabase"/><img src="https://img.shields.io/badge/Bun-%23000000.svg?style=flat&logo=bun&logoColor=white" alt="Bun"/> | React 19 + Vite + Supabase Auth SPA と <strong>AI チャット</strong> — セッションスレッド、markdown 返信、マルチターン `POST /chat` |
-| Backend | [**cf-hono-supabase-gemini-api-template**](https://github.com/open-templates/cf-hono-supabase-gemini-api-template) | <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white" alt="Cloudflare"/><img src="https://img.shields.io/badge/Hono-E36002?style=flat&logo=hono&logoColor=white" alt="Hono"/><img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" alt="Supabase"/><img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white" alt="Gemini"/> | Cloudflare Worker + Hono + Supabase + <strong>Gemini</strong> — `GET /health`、JWT `GET /me`、会話履歴付き `POST /chat` |
-
-<br/><br/>
 <br/><br/>
 
 <h2 align="center"><b>📦 オープンソースライブラリ</b></h2>

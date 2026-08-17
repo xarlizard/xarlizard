@@ -92,24 +92,20 @@
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/xarlizard/carbnb-v0/main/.github/icon-cropped.png" width="200" alt="CarBnB" align="left"/>
+<img src="https://raw.githubusercontent.com/dropafile/dropafile/main/.github/icon-cropped.png" width="200" alt="dropafile" align="left"/>
 
 <div>
-<h3><b>CarBnB</b></h3>
+<h3><a href="https://github.com/dropafile/dropafile">dropafile</a></h3>
 <p>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" alt="Vercel"/>
- ·
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white" alt="Cloudflare"/>
+<img src="https://img.shields.io/badge/Hono-E36002?style=flat&logo=hono&logoColor=white" alt="Hono"/>
 <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React"/>
-<img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white" alt="Netlify"/>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/>
 </p>
-<p>Marketplace peer-to-peer de aluguer de carros inspirado no <strong>Airbnb</strong> — alugue a proprietários locais em vez de balcões tradicionais. Dois frontends proof-of-concept com <strong>Lovable</strong> e <strong>Vercel v0</strong> para comparar AI-assisted UI generation workflows.</p>
+<p><strong>Largue um ficheiro. Todos recebem em direto.</strong> Partilha efémera de ficheiros em sessão live em <strong>Cloudflare Workers</strong> — crie uma sala, partilhe um link ou código QR e deixe os peers ligados descarregar em tempo real. Sinalização WebSocket na edge; os bytes fluem peer-to-peer no browser. Sem contas nem armazenamento persistente.</p>
 <p>
-<a href="https://carbnb.netlify.app/"><img src="https://img.shields.io/badge/LIVE_DEMO-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo"/></a>
-<a href="https://github.com/xarlizard/carbnb-lovable"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
- ·
-<a href="https://carbnb-v0.netlify.app/"><img src="https://img.shields.io/badge/LIVE_DEMO-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/></a>
-<a href="https://github.com/xarlizard/carbnb-v0"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://dropafile.app-org-es.workers.dev/"><img src="https://img.shields.io/badge/LIVE_DEMO-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Live Demo"/></a>
+<a href="https://github.com/dropafile/dropafile"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 </div>
 
@@ -117,38 +113,20 @@
 
 <h2 align="center"><b>📋 Templates Open</b></h2>
 
-<p align="center">Repositórios iniciais de <strong><a href="https://github.com/open-templates">@open-templates</a></strong> — use individualmente ou como packs fullstack emparelhados.</p>
+<p align="center">Sou dono e mantenedor de <strong><a href="https://github.com/open-templates">@open-templates</a></strong> — templates GitHub reutilizáveis com defaults sensatos, init wizards e packs fullstack emparelhados. Alguns pontos de entrada:</p>
 
-<h3 align="center"><b>📄 Independentes</b></h3>
+| Template | Resumo |
+| --- | --- |
+| [**github-repo-template**](https://github.com/open-templates/github-repo-template) | Shell de repo agnóstico ao stack — community docs, Dependabot, CODEOWNERS, templates de issues e PR |
+| [**npm-package-template**](https://github.com/open-templates/npm-package-template) | Pacote npm TypeScript production-ready — tsup, Vitest, ESLint, publish workflows & CodeQL |
+| [**`.github-template`**](https://github.com/open-templates/.github-template) | Meta-repo público de org (`.github`) — perfil de org para visitantes, catálogo de repositórios starter, init wizard |
 
-| Template | Stack Tecnológico | Descrição |
-| --- | --- | --- |
-| [**github-repo-template**](https://github.com/open-templates/github-repo-template) | <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white" alt="GitHub Actions"/> | Shell de repositório GitHub agnóstico ao stack — community docs, Dependabot, CODEOWNERS, templates de issues e PR |
-| [**npm-package-template**](https://github.com/open-templates/npm-package-template) | <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/><img src="https://img.shields.io/badge/Vitest-252529?style=flat&logo=vitest&logoColor=FCC72B" alt="Vitest"/><img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat&logo=eslint&logoColor=white" alt="ESLint"/><img src="https://img.shields.io/badge/NPM-CB3837?style=flat&logo=npm&logoColor=white" alt="NPM"/> | Pacote npm TypeScript production-ready — dual ESM/CJS builds, Vitest, ESLint, publish automatizado e CodeQL |
+<p align="center">
+<a href="https://github.com/open-templates"><img src="https://img.shields.io/badge/Org%20profile-open--templates-181717?style=for-the-badge&logo=github&logoColor=white" alt="Perfil da org"/></a>
+&nbsp;
+<a href="https://github.com/orgs/open-templates/repositories"><img src="https://img.shields.io/badge/Browse-all%20templates-2088FF?style=for-the-badge&logo=github&logoColor=white" alt="Explorar templates"/></a>
+</p>
 
-<br/>
-
-<h3 align="center"><b>⚡ Packs Fullstack</b></h3>
-
-<p align="center"><em>Templates frontend e backend ligados aos mesmos contratos de auth e API — clone ambos e publique.</em></p>
-
-<h4 align="center"><b>🔐 Pack Supabase Auth</b></h4>
-
-| Papel | Template | Stack Tecnológico | Descrição |
-| --- | --- | --- | --- |
-| Frontend | [**react-supabase-auth-template**](https://github.com/open-templates/react-supabase-auth-template) | <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React"/><img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" alt="Vite"/><img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" alt="Supabase"/><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/> | React 19 + Vite + Supabase Auth — email/palavra-passe e Google OAuth, rotas protegidas, API health polling, `GET /me` |
-| Backend | [**cf-hono-supabase-api-template**](https://github.com/open-templates/cf-hono-supabase-api-template) | <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white" alt="Cloudflare"/><img src="https://img.shields.io/badge/Hono-E36002?style=flat&logo=hono&logoColor=white" alt="Hono"/><img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" alt="Supabase"/><img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/> | Cloudflare Worker + Hono + Supabase — `GET /health` público, `GET /me` protegido por JWT |
-
-<br/>
-
-<h4 align="center"><b>🤖 Pack AI Chat</b></h4>
-
-| Papel | Template | Stack Tecnológico | Descrição |
-| --- | --- | --- | --- |
-| Frontend | [**react-supabase-auth-ai-chat-template**](https://github.com/open-templates/react-supabase-auth-ai-chat-template) | <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React"/><img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" alt="Vite"/><img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" alt="Supabase"/><img src="https://img.shields.io/badge/Bun-%23000000.svg?style=flat&logo=bun&logoColor=white" alt="Bun"/> | SPA React 19 + Vite + Supabase Auth com <strong>chat de IA</strong> — threads de sessão, respostas markdown, `POST /chat` multi-turno |
-| Backend | [**cf-hono-supabase-gemini-api-template**](https://github.com/open-templates/cf-hono-supabase-gemini-api-template) | <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white" alt="Cloudflare"/><img src="https://img.shields.io/badge/Hono-E36002?style=flat&logo=hono&logoColor=white" alt="Hono"/><img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" alt="Supabase"/><img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white" alt="Gemini"/> | Cloudflare Worker + Hono + Supabase + <strong>Gemini</strong> — `GET /health`, JWT `GET /me` e `POST /chat` com histórico de conversa |
-
-<br/><br/>
 <br/><br/>
 
 <h2 align="center"><b>📦 Bibliotecas Open Source</b></h2>

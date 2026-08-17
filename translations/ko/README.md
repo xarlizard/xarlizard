@@ -92,24 +92,20 @@
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/xarlizard/carbnb-v0/main/.github/icon-cropped.png" width="200" alt="CarBnB" align="left"/>
+<img src="https://raw.githubusercontent.com/dropafile/dropafile/main/.github/icon-cropped.png" width="200" alt="dropafile" align="left"/>
 
 <div>
-<h3><b>CarBnB</b></h3>
+<h3><a href="https://github.com/dropafile/dropafile">dropafile</a></h3>
 <p>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" alt="Vercel"/>
- ·
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white" alt="Cloudflare"/>
+<img src="https://img.shields.io/badge/Hono-E36002?style=flat&logo=hono&logoColor=white" alt="Hono"/>
 <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React"/>
-<img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white" alt="Netlify"/>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/>
 </p>
-<p><strong>Airbnb</strong>에서 영감을 받은 P2P 자동차 렌탈 마켓플레이스 — 기존 렌탈 카운터 대신 지역 소유자에게서 차를 빌립니다. <strong>Lovable</strong>과 <strong>Vercel v0</strong>로 두 개의 개념 증명 프론트엔드를 구축해 AI 지원 UI 생성 워크플로를 비교했습니다.</p>
+<p><strong>파일을 드롭하세요. 모두가 실시간으로 받습니다.</strong> <strong>Cloudflare Workers</strong> 기반의 일시적 live-session 파일 공유 — 방을 만들고 링크나 QR 코드를 공유하면 연결된 피어가 실시간으로 다운로드합니다. 엣지에서 WebSocket 시그널링; 파일 바이트는 브라우저에서 P2P로 전송됩니다. 계정 없음, 영구 저장소 없음.</p>
 <p>
-<a href="https://carbnb.netlify.app/"><img src="https://img.shields.io/badge/LIVE_DEMO-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo"/></a>
-<a href="https://github.com/xarlizard/carbnb-lovable"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
- ·
-<a href="https://carbnb-v0.netlify.app/"><img src="https://img.shields.io/badge/LIVE_DEMO-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/></a>
-<a href="https://github.com/xarlizard/carbnb-v0"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://dropafile.app-org-es.workers.dev/"><img src="https://img.shields.io/badge/LIVE_DEMO-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Live Demo"/></a>
+<a href="https://github.com/dropafile/dropafile"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 </div>
 
@@ -117,38 +113,20 @@
 
 <h2 align="center"><b>📋 오픈 템플릿</b></h2>
 
-<p align="center"><strong><a href="https://github.com/open-templates">@open-templates</a></strong>의 스타터 저장소 — 단독으로 또는 페어드 fullstack 팩으로 사용하세요.</p>
+<p align="center"><strong><a href="https://github.com/open-templates">@open-templates</a></strong>를 소유하고 유지 관리합니다 — 합리적인 기본값, init 마법사, 페어드 fullstack 팩이 포함된 재사용 가능한 GitHub 스타터 템플릿. 몇 가지 진입점:</p>
 
-<h3 align="center"><b>📄 단독</b></h3>
+| 템플릿 | 요약 |
+| --- | --- |
+| [**github-repo-template**](https://github.com/open-templates/github-repo-template) | stack-agnostic repo shell — community docs, Dependabot, CODEOWNERS, issue & PR templates |
+| [**npm-package-template**](https://github.com/open-templates/npm-package-template) | 프로덕션 준비 TypeScript npm package — tsup, Vitest, ESLint, publish workflows & CodeQL |
+| [**`.github-template`**](https://github.com/open-templates/.github-template) | 공개 org 메타 저장소(`.github`) — 방문자용 org 프로필, 저장소 카탈로그 스타터, init 마법사 |
 
-| 템플릿 | 기술 스택 | 설명 |
-| --- | --- | --- |
-| [**github-repo-template**](https://github.com/open-templates/github-repo-template) | <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white" alt="GitHub Actions"/> | stack-agnostic GitHub repo shell — community docs, Dependabot, CODEOWNERS, issue & PR templates |
-| [**npm-package-template**](https://github.com/open-templates/npm-package-template) | <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/><img src="https://img.shields.io/badge/Vitest-252529?style=flat&logo=vitest&logoColor=FCC72B" alt="Vitest"/><img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat&logo=eslint&logoColor=white" alt="ESLint"/><img src="https://img.shields.io/badge/NPM-CB3837?style=flat&logo=npm&logoColor=white" alt="NPM"/> | 프로덕션 준비 TypeScript npm package — dual ESM/CJS builds, Vitest, ESLint, automated publish & CodeQL |
+<p align="center">
+<a href="https://github.com/open-templates"><img src="https://img.shields.io/badge/Org%20profile-open--templates-181717?style=for-the-badge&logo=github&logoColor=white" alt="Org 프로필"/></a>
+&nbsp;
+<a href="https://github.com/orgs/open-templates/repositories"><img src="https://img.shields.io/badge/Browse-all%20templates-2088FF?style=for-the-badge&logo=github&logoColor=white" alt="템플릿 둘러보기"/></a>
+</p>
 
-<br/>
-
-<h3 align="center"><b>⚡ 풀스택 팩</b></h3>
-
-<p align="center"><em>동일한 auth 및 API 계약으로 연결된 frontend/backend 템플릿 — 둘 다 clone하여 배포하세요.</em></p>
-
-<h4 align="center"><b>🔐 Supabase Auth 팩</b></h4>
-
-| 역할 | 템플릿 | 기술 스택 | 설명 |
-| --- | --- | --- | --- |
-| Frontend | [**react-supabase-auth-template**](https://github.com/open-templates/react-supabase-auth-template) | <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React"/><img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" alt="Vite"/><img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" alt="Supabase"/><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/> | React 19 + Vite + Supabase Auth — 이메일/비밀번호 & Google OAuth, protected routes, API health polling, `GET /me` |
-| Backend | [**cf-hono-supabase-api-template**](https://github.com/open-templates/cf-hono-supabase-api-template) | <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white" alt="Cloudflare"/><img src="https://img.shields.io/badge/Hono-E36002?style=flat&logo=hono&logoColor=white" alt="Hono"/><img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" alt="Supabase"/><img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/> | Cloudflare Worker + Hono + Supabase — 공개 `GET /health`, JWT 보호 `GET /me` |
-
-<br/>
-
-<h4 align="center"><b>🤖 AI Chat 팩</b></h4>
-
-| 역할 | 템플릿 | 기술 스택 | 설명 |
-| --- | --- | --- | --- |
-| Frontend | [**react-supabase-auth-ai-chat-template**](https://github.com/open-templates/react-supabase-auth-ai-chat-template) | <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React"/><img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" alt="Vite"/><img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" alt="Supabase"/><img src="https://img.shields.io/badge/Bun-%23000000.svg?style=flat&logo=bun&logoColor=white" alt="Bun"/> | React 19 + Vite + Supabase Auth SPA와 <strong>AI 채팅</strong> — 세션 스레드, markdown 응답, 멀티턴 `POST /chat` |
-| Backend | [**cf-hono-supabase-gemini-api-template**](https://github.com/open-templates/cf-hono-supabase-gemini-api-template) | <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white" alt="Cloudflare"/><img src="https://img.shields.io/badge/Hono-E36002?style=flat&logo=hono&logoColor=white" alt="Hono"/><img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" alt="Supabase"/><img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white" alt="Gemini"/> | Cloudflare Worker + Hono + Supabase + <strong>Gemini</strong> — `GET /health`, JWT `GET /me`, 대화 기록이 있는 `POST /chat` |
-
-<br/><br/>
 <br/><br/>
 
 <h2 align="center"><b>📦 오픈 소스 라이브러리</b></h2>

@@ -45,47 +45,6 @@ const LINKEDIN_ICON_B64 =
   'PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg==';
 const LINKEDIN_LOGIN_BADGE = `https://img.shields.io/badge/LinkedIn_login-0A66C2?style=flat&logo=data:image/svg+xml;base64,${LINKEDIN_ICON_B64}`;
 
-const TECH_BADGES = {
-  github:
-    '<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>',
-  githubActions:
-    '<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white" alt="GitHub Actions"/>',
-  typescript:
-    '<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/>',
-  vitest:
-    '<img src="https://img.shields.io/badge/Vitest-252529?style=flat&logo=vitest&logoColor=FCC72B" alt="Vitest"/>',
-  eslint:
-    '<img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat&logo=eslint&logoColor=white" alt="ESLint"/>',
-  npm: '<img src="https://img.shields.io/badge/NPM-CB3837?style=flat&logo=npm&logoColor=white" alt="NPM"/>',
-  react:
-    '<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React"/>',
-  vite: '<img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" alt="Vite"/>',
-  supabase:
-    '<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" alt="Supabase"/>',
-  tailwind:
-    '<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>',
-  cloudflare:
-    '<img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white" alt="Cloudflare"/>',
-  hono: '<img src="https://img.shields.io/badge/Hono-E36002?style=flat&logo=hono&logoColor=white" alt="Hono"/>',
-  bun: '<img src="https://img.shields.io/badge/Bun-%23000000.svg?style=flat&logo=bun&logoColor=white" alt="Bun"/>',
-  gemini:
-    '<img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white" alt="Gemini"/>',
-};
-
-function renderTechStack(keys) {
-  return keys.map((key) => TECH_BADGES[key]).join('');
-}
-
-function standaloneRow(name, techStack, descKey, t) {
-  const repo = `https://github.com/open-templates/${name}`;
-  return `| [**${name}**](${repo}) | ${renderTechStack(techStack)} | ${t[descKey]} |`;
-}
-
-function packRow(roleKey, name, techStack, descKey, t) {
-  const repo = `https://github.com/open-templates/${name}`;
-  return `| ${t[roleKey]} | [**${name}**](${repo}) | ${renderTechStack(techStack)} | ${t[descKey]} |`;
-}
-
 function read(filePath) {
   return fs.readFileSync(filePath, 'utf8');
 }
@@ -170,24 +129,20 @@ function renderFeatured(t) {
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/xarlizard/carbnb-v0/main/.github/icon-cropped.png" width="200" alt="CarBnB" align="left"/>
+<img src="https://raw.githubusercontent.com/dropafile/dropafile/main/.github/icon-cropped.png" width="200" alt="dropafile" align="left"/>
 
 <div>
-<h3><b>CarBnB</b></h3>
+<h3><a href="https://github.com/dropafile/dropafile">dropafile</a></h3>
 <p>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" alt="Vercel"/>
- ·
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white" alt="Cloudflare"/>
+<img src="https://img.shields.io/badge/Hono-E36002?style=flat&logo=hono&logoColor=white" alt="Hono"/>
 <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React"/>
-<img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white" alt="Netlify"/>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/>
 </p>
-<p>${t.carbnb_desc}</p>
+<p>${t.dropafile_desc}</p>
 <p>
-<a href="https://carbnb.netlify.app/"><img src="https://img.shields.io/badge/LIVE_DEMO-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo"/></a>
-<a href="https://github.com/xarlizard/carbnb-lovable"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
- ·
-<a href="https://carbnb-v0.netlify.app/"><img src="https://img.shields.io/badge/LIVE_DEMO-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/></a>
-<a href="https://github.com/xarlizard/carbnb-v0"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://dropafile.app-org-es.workers.dev/"><img src="https://img.shields.io/badge/LIVE_DEMO-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Live Demo"/></a>
+<a href="https://github.com/dropafile/dropafile"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 </div>
 
@@ -196,92 +151,31 @@ function renderFeatured(t) {
 }
 
 function renderTemplates(t) {
-  const standalone = [
-    {
-      name: 'github-repo-template',
-      techStack: ['github', 'githubActions'],
-      descKey: 'github_repo_template_desc',
-    },
-    {
-      name: 'npm-package-template',
-      techStack: ['typescript', 'vitest', 'eslint', 'npm'],
-      descKey: 'ot_npm_package_template_desc',
-    },
-  ];
-
-  const supabasePack = [
-    {
-      roleKey: 'templates_role_frontend',
-      name: 'react-supabase-auth-template',
-      techStack: ['react', 'vite', 'supabase', 'tailwind'],
-      descKey: 'react_supabase_auth_template_desc',
-    },
-    {
-      roleKey: 'templates_role_backend',
-      name: 'cf-hono-supabase-api-template',
-      techStack: ['cloudflare', 'hono', 'supabase', 'typescript'],
-      descKey: 'cf_hono_supabase_api_template_desc',
-    },
-  ];
-
-  const aiChatPack = [
-    {
-      roleKey: 'templates_role_frontend',
-      name: 'react-supabase-auth-ai-chat-template',
-      techStack: ['react', 'vite', 'supabase', 'bun'],
-      descKey: 'react_supabase_auth_ai_chat_template_desc',
-    },
-    {
-      roleKey: 'templates_role_backend',
-      name: 'cf-hono-supabase-gemini-api-template',
-      techStack: ['cloudflare', 'hono', 'supabase', 'gemini'],
-      descKey: 'cf_hono_supabase_gemini_api_template_desc',
-    },
-  ];
-
-  const standaloneRows = standalone
-    .map(({ name, techStack, descKey }) => standaloneRow(name, techStack, descKey, t))
-    .join('\n');
-
-  const supabaseRows = supabasePack
-    .map(({ roleKey, name, techStack, descKey }) => packRow(roleKey, name, techStack, descKey, t))
-    .join('\n');
-
-  const aiChatRows = aiChatPack
-    .map(({ roleKey, name, techStack, descKey }) => packRow(roleKey, name, techStack, descKey, t))
+  const templateRows = [
+    { name: 'github-repo-template', label: 'github-repo-template', descKey: 'github_repo_template_desc' },
+    { name: 'npm-package-template', label: 'npm-package-template', descKey: 'ot_npm_package_template_desc' },
+    { name: '.github-template', label: '`.github-template`', descKey: 'github_template_desc' },
+  ]
+    .map(({ name, label, descKey }) => {
+      const repo = `https://github.com/open-templates/${name}`;
+      return `| [**${label}**](${repo}) | ${t[descKey]} |`;
+    })
     .join('\n');
 
   return `<h2 align="center"><b>${t.templates_title}</b></h2>
 
 <p align="center">${t.templates_intro}</p>
 
-<h3 align="center"><b>${t.templates_standalone_title}</b></h3>
+| ${t.templates_col_template} | ${t.templates_col_summary} |
+| --- | --- |
+${templateRows}
 
-| ${t.templates_col_template} | ${t.templates_col_tech_stack} | ${t.templates_col_desc} |
-| --- | --- | --- |
-${standaloneRows}
+<p align="center">
+<a href="https://github.com/open-templates"><img src="https://img.shields.io/badge/Org%20profile-open--templates-181717?style=for-the-badge&logo=github&logoColor=white" alt="${t.templates_org_profile_alt}"/></a>
+&nbsp;
+<a href="https://github.com/orgs/open-templates/repositories"><img src="https://img.shields.io/badge/Browse-all%20templates-2088FF?style=for-the-badge&logo=github&logoColor=white" alt="${t.templates_browse_alt}"/></a>
+</p>
 
-<br/>
-
-<h3 align="center"><b>${t.templates_fullstack_title}</b></h3>
-
-<p align="center"><em>${t.templates_fullstack_subtitle}</em></p>
-
-<h4 align="center"><b>${t.templates_supabase_pack_title}</b></h4>
-
-| ${t.templates_col_role} | ${t.templates_col_template} | ${t.templates_col_tech_stack} | ${t.templates_col_desc} |
-| --- | --- | --- | --- |
-${supabaseRows}
-
-<br/>
-
-<h4 align="center"><b>${t.templates_ai_chat_pack_title}</b></h4>
-
-| ${t.templates_col_role} | ${t.templates_col_template} | ${t.templates_col_tech_stack} | ${t.templates_col_desc} |
-| --- | --- | --- | --- |
-${aiChatRows}
-
-<br/><br/>
 <br/><br/>
 `;
 }

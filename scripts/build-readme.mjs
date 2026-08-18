@@ -45,9 +45,23 @@ const LINKEDIN_ICON_B64 =
   'PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg==';
 const LINKEDIN_LOGIN_BADGE = `https://img.shields.io/badge/LinkedIn_login-0A66C2?style=flat&logo=data:image/svg+xml;base64,${LINKEDIN_ICON_B64}`;
 
+// shields.io has no built-in globe logo; embed a web/globe icon as base64 instead.
+const WEB_GLOBE_ICON_B64 =
+  'PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMS45OSAyQzYuNDcgMiAyIDYuNDggMiAxMnM0LjQ3IDEwIDkuOTkgMTBDMTcuNTIgMjIgMjIgMTcuNTIgMjIgMTJTMTcuNTIgMiAxMS45OSAyem02LjkzIDZoLTIuOTVhMTUuNjUgMTUuNjUgMCAwIDAtMS4zOC0zLjU2QTguMDMgOC4wMyAwIDAgMSAxOC45MiA4ek0xMiA0LjA0Yy44MyAxLjIgMS40OCAyLjUzIDEuOTEgMy45NmgtMy44MmMuNDMtMS40MyAxLjA4LTIuNzYgMS45MS0zLjk2ek00LjI2IDE0QzQuMSAxMy4zNiA0IDEyLjY5IDQgMTJzLjEtMS4zNi4yNi0yaDMuMzhjLS4wOC42Ni0uMTQgMS4zMi0uMTQgMiAwIC42OC4wNiAxLjM0LjE0IDJINC4yNnptLjgyIDJoMi45NWMuMzIgMS4yNS43OCAyLjQ1IDEuMzggMy41NkE3Ljk4NyA3Ljk4NyAwIDAgMSA1LjA4IDE2em0yLjk1LThINS4wOGE3Ljk4NyA3Ljk4NyAwIDAgMSA0LjMzLTMuNTZBMTUuNjUgMTUuNjUgMCAwIDAgOC4wMyA4ek0xMiAxOS45NmMtLjgzLTEuMi0xLjQ4LTIuNTMtMS45MS0zLjk2aDMuODJjLS40MyAxLjQzLTEuMDggMi43Ni0xLjkxIDMuOTZ6TTE0LjM0IDE0SDkuNjZjLS4wOS0uNjYtLjE2LTEuMzItLjE2LTIgMC0uNjguMDctMS4zNS4xNi0yaDQuNjhjLjA5LjY1LjE2IDEuMzIuMTYgMiAwIC42OC0uMDcgMS4zNC0uMTYgMnptLjI1IDUuNTZjLjYtMS4xMSAxLjA2LTIuMzEgMS4zOC0zLjU2aDIuOTVhOC4wMyA4LjAzIDAgMCAxLTQuMzMgMy41NnpNMTYuMzYgMTRjLjA4LS42Ni4xNC0xLjMyLjE0LTIgMC0uNjgtLjA2LTEuMzQtLjE0LTJoMy4zOGMuMTYuNjQuMjYgMS4zMS4yNiAycy0uMSAxLjM2LS4yNiAyaC0zLjM4eiIvPjwvc3ZnPg==';
+
+const WEB_LINK_BADGE_COLOR = '58A6FF';
+
+function webLinkBadge(label) {
+  const encoded = encodeURIComponent(label).replace(/%20/g, '_');
+  return `https://img.shields.io/badge/${encoded}-${WEB_LINK_BADGE_COLOR}?style=for-the-badge&logo=data:image/svg+xml;base64,${WEB_GLOBE_ICON_B64}&logoColor=white`;
+}
+
 function landingPageBadge(t) {
-  const label = encodeURIComponent(t.landing_page_label).replace(/%20/g, '_');
-  return `https://img.shields.io/badge/${label}-F38020?style=for-the-badge&logo=cloudflare&logoColor=white`;
+  return webLinkBadge(t.landing_page_label);
+}
+
+function liveDemoBadge(t) {
+  return webLinkBadge(t.live_demo_label);
 }
 
 function read(filePath) {
@@ -146,7 +160,7 @@ function renderFeatured(t) {
 </p>
 <p>${t.dropafile_desc}</p>
 <p>
-<a href="https://dropafile.app-org-es.workers.dev/"><img src="https://img.shields.io/badge/LIVE_DEMO-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Live Demo"/></a>
+<a href="https://dropafile.app-org-es.workers.dev/"><img src="${liveDemoBadge(t)}" alt="${t.live_demo_label}"/></a>
 <a href="https://github.com/dropafile/dropafile"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 </div>
@@ -166,7 +180,7 @@ function renderFeatured(t) {
 </p>
 <p>${t.email_sig_desc}</p>
 <p>
-<a href="https://email-signature-editor.pages.dev/"><img src="https://img.shields.io/badge/LIVE_DEMO-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Live Demo"/></a>
+<a href="https://email-signature-editor.pages.dev/"><img src="${liveDemoBadge(t)}" alt="${t.live_demo_label}"/></a>
 <a href="https://github.com/xarlizard/email-signature-editor"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 </div>
